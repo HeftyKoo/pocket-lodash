@@ -10,3 +10,22 @@
 
 这系列的每篇文章应该不会很长，依 `lodash` 的组织，每个文件都会有一篇对应的文章，因此命名为 `pocket-lodash`。
 
+## 源码版本
+
+[lodash v4.17.4](https://github.com/lodash/lodash)
+
+## GitBook
+
+《[pocket-lodash](https://yeyuqiudeng.gitbooks.io/pocket-lodash/content/)》
+
+## 目录
+
+
+
+## License
+
+[署名-非商业性使用-禁止演绎 4.0 国际 (CC BY-NC-ND 4.0)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+所有文章都会同步发送到微信公众号上，欢迎关注,欢迎提意见：
+
+  ![](https://raw.githubusercontent.com/yeyuqiudeng/resource/master/images/qrcode_front-end-article.jpg) 
