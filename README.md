@@ -16,7 +16,7 @@
 
 ## GitBook
 
-《[pocket-lodash](https://yeyuqiudeng.gitbooks.io/pocket-lodash/content/)》
+《[pocket-lodash](https://www.gitbook.com/book/yeyuqiudeng/pocket-lodash/details)》
 
 ## 目录
 
