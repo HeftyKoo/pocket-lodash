@@ -93,7 +93,7 @@ if (!length) {
 
 所以在不传参调用 lodash 的 slice 时，返回的是空数组，而原生的 slice 没有这种调用方式。
 
- ## 处理start参数
+## 处理start参数
 
 `start` 参数用来指定截取的开始位置。
 
