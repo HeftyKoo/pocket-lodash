@@ -12,7 +12,7 @@ gitbook也会同步仓库的更新，gitbook地址：[pocket-lodash](https://www
 
 ## 引言
 
-你可能会有点奇怪，原生的 slice 方法基本没有兼容性的问题，为什么 lodash 还要实现一个 slice  方法呢？而且 lodash 中的 slice 方法还要比原生的慢。
+你可能会有点奇怪，原生的 slice 方法基本没有兼容性的问题，为什么 lodash 还要实现一个 slice  方法呢？
 
 这个问题，lodash 的作者已经在 [why not the 'baseslice' func use Array.slice(), loop faster than slice?](https://github.com/lodash/lodash/issues/2850) 的 issue 中给出了答案：lodash 的 slice 会将数组当成密集数组对待，原生的 slice 会将数组当成稀疏数组对待。
 
