@@ -20,11 +20,13 @@
 
 ## 目录
 
-[slice](slice.md)
+* [internal]()
+  * [hash](internal/hash.md)
 
-[chunk](chunk.md)
 
-[compact](compact.md)
+* [slice](slice.md)
+* [chunk](chunk.md)
+* [compact](compact.md)
 
 ## License
 
