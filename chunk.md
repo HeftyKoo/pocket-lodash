@@ -119,7 +119,7 @@ while (index < length) {
 
 测量好块的数量后，就要下刀切割啦。每切割下一块，就立马放置到容器 `result` 中。
 
-`index` 是放置块的位置，`resIndex` 是切割的开始位置。
+`resIndex` 是放置块的位置，`index` 是切割的开始位置。
 
 当 `index` 与块的数量 `length` 相等时，表示已经切割完毕，停止切割，最后将结果返回。
 
