@@ -17,7 +17,7 @@ gitbook也会同步仓库的更新，gitbook地址：[pocket-lodash](https://www
  `Hash` 只接收一个二维数组作为参数，调用方式如下：
 
 ```javascript
-new Hash([['tes1': 1],['test2':2],['test3':3]])
+new Hash([['tes1', 1],['test2',2],['test3',3]])
 ```
 
 其中子项中的第一项会作为 `key` ，第二项是需要缓存的值。
