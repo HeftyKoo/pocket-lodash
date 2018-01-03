@@ -6,5 +6,5 @@
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
-
++ [eq](eq.md)
 
