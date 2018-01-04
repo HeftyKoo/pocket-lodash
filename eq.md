@@ -129,7 +129,7 @@ function eq(value, other) {
 
 `Object.is` 同样是比较两个值是否一样，但是 `Object.is(+0, -0)` 返回的是 `false`， 它遵循是的 `SameValue` 规范，因此不可以直接用 `Object.is` 替代 `eq` 。
 
-### 可以用isNaN()吗？
+## 可以用isNaN()吗？
 
 还有个 `isNaN` 的全局方法，可以用来判断一个值是否为 `NaN`。例如 `isNaN(NaN)` 会返回 `true` ，那 `eq` 是否可以改成以下形式呢？
 
@@ -143,7 +143,7 @@ function eq(value, other) {
 
 `isNaN` 有一个很怪异的行为，如果传入的参数不为 `Number` 类型，会尝试转换成 `Number` 类型之后再做是否为 `NaN` 的判断。所以类似 `isNaN('notNaN')` 返回的也是 `true` ，因为字符串 `notNaN` 会先被转换成 `NaN` 再做判断，这不是我们想要的结果。
 
-### 可以用Number.isNaN()吗
+## 可以用Number.isNaN()吗
 
 为了修复 `isNaN` 的缺陷，`es6` 在 `Number` 对象上扩展了 `isNaN` 方法，只有是 `NaN` 时才会返回 `true`，因此用 `Number.isNaN` 来判断是安全的。所以 `eq` 同样可以改成以下形式：
 
