@@ -180,6 +180,8 @@ get(key) {
 
 其实这样还是有小小的问题的，如果需要缓存的值刚好是 `__lodash_hash_undefined__`，那取出来的值跟预设的就不一致了。但是这样情况应该很少出现吧。
 
+如果是自己写的函数，可以用数组、对象或者 `Symbol` 来替代字符串，就不会出现字符串冲突的情况了。lodash 为什么不用呢，因为 lodash 是分模块发布的，不同的模块可能依赖不同版本的 `Hash` 类，这样 `HASH_UNDEFINED` 指向的内存或者 `Symbol` 值就不一致了，也就无法区分出 `undefined` 了。具体见作者的回复：[HASH_UNDEFINED why not use Object or Array](https://github.com/lodash/lodash/issues/3573)
+
 ### delete
 
 ```javascript
