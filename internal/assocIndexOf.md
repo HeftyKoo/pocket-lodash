@@ -1,5 +1,9 @@
 # lodash源码分析之自减的两种形式
 
+> 这个世界需要一个特定的恶人，可以供众指名道姓，千夫所指：“全都怪你”。
+>
+> ——村上春树《当我谈跑步时我谈些什么》
+
 本文为读 lodash 源码的第六篇，后续文章会更新到这个仓库中，欢迎 star：[pocket-lodash](https://github.com/yeyuqiudeng/pocket-lodash)
 
 gitbook也会同步仓库的更新，gitbook地址：[pocket-lodash](https://www.gitbook.com/book/yeyuqiudeng/pocket-lodash/details)
