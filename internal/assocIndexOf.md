@@ -1,4 +1,4 @@
-# lodash源码分析之语句和表达式
+# lodash源码分析之自减的两种形式
 
 本文为读 lodash 源码的第六篇，后续文章会更新到这个仓库中，欢迎 star：[pocket-lodash](https://github.com/yeyuqiudeng/pocket-lodash)
 
