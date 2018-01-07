@@ -30,7 +30,7 @@ assocIndexOf(caches, 'test1') // 0
 import eq from '../eq.js'
 ```
 
-[lodash源码分析之NaN不是NaN](https://github.com/yeyuqiudeng/pocket-lodash/issues/5)
+[lodash源码分析之NaN不是NaN](../eq.md)
 
 ## 源码分析
 
