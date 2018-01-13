@@ -21,7 +21,7 @@
 ## 目录
 
 * [internal]()
-  * [hash](internal/hash.md)
+  * [Hash](internal/Hash.md)
   * [assocIndexOf](internal/assocIndexOf.md)
 
 
