@@ -22,7 +22,7 @@ gitbook也会同步仓库的更新，gitbook地址：[pocket-lodash](https://www
 
 以下便为 lodash 决定使用缓存方式的流程：
 
-![](../images/Mapcache.png)
+![](../images/MapCache.png)
 
 首先，判断 `key` 的类型，以是否为 `string/number/symbol/boolean` 类型为成两拨，如果是以上的类型，再判断 `key` 是否等于 `__proto__` ，如果不是 `__proto__` ，则使用 `Hash` 缓存。不能为 `__proto__` 的原因是，大部分 JS 引擎都以这个属性来保存对象的原型。
 
