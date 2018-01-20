@@ -5,6 +5,7 @@
   * [Hash](internal/Hash.md)
   * [assocIndexOf](internal/assocIndexOf.md)
   * [ListCache](internal/ListCache.md)
+  * [MapCache](internal/MapCache.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
