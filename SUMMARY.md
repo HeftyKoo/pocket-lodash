@@ -6,6 +6,7 @@
   * [assocIndexOf](internal/assocIndexOf.md)
   * [ListCache](internal/ListCache.md)
   * [MapCache](internal/MapCache.md)
+  * [SetCache](internal/SetCache.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
