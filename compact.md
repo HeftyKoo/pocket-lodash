@@ -100,7 +100,7 @@ for (let i = 0; i < array.length; i++) {
 
 ```javascript
 for (let index in array) {
-  const value = array[i]
+  const value = array[index]
   if (value) {
     result[resIndex++] = value
   }
