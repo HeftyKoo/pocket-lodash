@@ -103,7 +103,7 @@ fromRight ? index-- : ++index < length
 
 因为在向前查找时，最终要查找到数组索引 `0` 的位置，后缀自减返回的是自减前的数值，因此当 `index` 为 `1` 时，自减后的 `index` 为 `0` ，但是在循环条件中依然拿 `1` 来进行判断，所以使得索引 `0` 得以进入循环体。
 
-关于前缀自增/减和后缀自增/减的区别可以看《[lodash源码分析之自减的两种形式](https://github.com/yeyuqiudeng/pocket-lodash/blob/master/internal/assocIndexOf.md)》。
+关于前缀自增/减和后缀自增/减的区别可以看《[lodash源码分析之自减的两种形式](./assocIndexOf.md)》。
 
 ## 参考
 
