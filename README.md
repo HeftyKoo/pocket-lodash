@@ -26,6 +26,7 @@
   * [ListCache](internal/ListCache.md)
   * [MapCache](internal/MapCache.md)
   * [SetCache](internal/SetCache.md)
+  * [baseFindIndex](internal/baseFindIndex.md)
 
 
 * [slice](slice.md)
