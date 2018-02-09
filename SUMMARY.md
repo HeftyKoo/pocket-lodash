@@ -8,7 +8,7 @@
   * [MapCache](internal/MapCache.md)
   * [SetCache](internal/SetCache.md)
   * [baseFindIndex](internal/baseFindIndex.md)
-  * [baseIsNaN](../eq.md)
+  * [baseIsNaN](eq.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
