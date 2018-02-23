@@ -9,6 +9,7 @@
   * [SetCache](internal/SetCache.md)
   * [baseFindIndex](internal/baseFindIndex.md)
   * [baseIsNaN](eq.md)
+  * [strictIndexOf](internal/strictIndexOf)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
