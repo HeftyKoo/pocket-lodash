@@ -10,6 +10,7 @@
   * [baseFindIndex](internal/baseFindIndex.md)
   * [baseIsNaN](eq.md)
   * [strictIndexOf](internal/strictIndexOf)
+  * [baseIndexOf](internal/baseIndexOf.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
