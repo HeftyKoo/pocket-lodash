@@ -30,6 +30,7 @@
   * [baseIsNaN](eq.md)
   * [strictIndexOf](internal/strictIndexOf.md)
   * [baseIndexOf](internal/baseIndexOf.md)
+  * [arrayIncludes](internal/arrayIncludes.md)
 
 
 * [slice](slice.md)
