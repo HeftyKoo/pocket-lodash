@@ -12,6 +12,7 @@
   * [strictIndexOf](internal/strictIndexOf.md)
   * [baseIndexOf](internal/baseIndexOf.md)
   * [arrayIncludes](internal/arrayIncludes.md)
+  * [arrayIncludesWith](internal/arrayIncludesWith.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
