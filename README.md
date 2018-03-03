@@ -38,6 +38,7 @@
 * [chunk](chunk.md)
 * [compact](compact.md)
 * [eq](eq.md)
+* [map](map.md)
 
 ## License
 
