@@ -14,6 +14,7 @@
   * [arrayIncludes](internal/arrayIncludes.md)
   * [arrayIncludesWith](internal/arrayIncludesWith.md)
   * [cacheHas](internal/cacheHas.md)
+  * [baseDifference](internal/baseDifference.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
