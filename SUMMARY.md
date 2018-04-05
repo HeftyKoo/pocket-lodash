@@ -15,6 +15,7 @@
   * [arrayIncludesWith](internal/arrayIncludesWith.md)
   * [cacheHas](internal/cacheHas.md)
   * [baseDifference](internal/baseDifference.md)
+  * [baseGetTag](internal/baseGetTag.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
