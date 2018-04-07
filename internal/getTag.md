@@ -12,6 +12,14 @@ gitbook也会同步仓库的更新，gitbook地址：[pocket-lodash](https://www
 
 在前文《[lodash源码分析之获取数据类型](baseGetTag.md)》已经解释了获取数据类型的方法，但是在有些环境下，一些 `es6` 新增的对象获取到的类型都为 `[object Object]` ，这样就没办法做细致的区分。例如在 IE11 中，通过 `Object.prototype.toString` 获取到的 `DataView` 对象类型为 `[object Object]`。 因此在 `getTag` 中，lodash 针对这些对象做了一些兼容性的事情。
 
+## 依赖
+
+```javascript
+import baseGetTag from './baseGetTag.js'
+```
+
+《[lodash源码分析之获取数据类型](baseGetTag.md)》
+
 ## 源码分析
 
 ```javascript
