@@ -35,6 +35,7 @@
   * [cacheHas](internal/cacheHas.md)
   * [baseDifference](internal/baseDifference.md)
   * [baseGetTag](internal/baseGetTag.md)
+  * [getTag](internal/getTag.md)
 
 
 * [slice](slice.md)
