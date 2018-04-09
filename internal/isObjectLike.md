@@ -42,6 +42,10 @@ function isObjectLike(value) {
 
 另外还有一点需要注意的，在由宿主实现的对象中，规范规定了不能返回 `'undefined'`, `'boolean'`, `'number'` 和  `'string'` 这几种类型，但是 `document.all` 例外，返回的是 `'undefined'` ，这是不遵循规范的实现。
 
+## 参考
+
+* [MDN:typeof](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/typeof)
+
 ## License
 
 [署名-非商业性使用-禁止演绎 4.0 国际 (CC BY-NC-ND 4.0)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
