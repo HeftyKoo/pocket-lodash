@@ -36,6 +36,7 @@
   * [baseDifference](internal/baseDifference.md)
   * [baseGetTag](internal/baseGetTag.md)
   * [getTag](internal/getTag.md)
+  * [isObjectLike](internal/isObjectLike.md)
 
 
 * [slice](slice.md)
