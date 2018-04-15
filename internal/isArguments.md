@@ -15,9 +15,9 @@ import getTag from './.internal/getTag.js'
 import isObjectLike from './isObjectLike'
 ```
 
-《[lodash源码分析之数据类型获取的兼容性](https://github.com/yeyuqiudeng/pocket-lodash/issues/20)》
+《[lodash源码分析之数据类型获取的兼容性](getTag.md)》
 
-《[lodash源码分析之isObjectLike](https://github.com/yeyuqiudeng/pocket-lodash/issues/21)》
+《[lodash源码分析之isObjectLike](isObjectLike.md)》
 
 ## 源码分析
 
