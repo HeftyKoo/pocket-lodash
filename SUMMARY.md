@@ -18,6 +18,7 @@
   * [baseGetTag](internal/baseGetTag.md)
   * [getTag](internal/getTag.md)
   * [isObjectLike](internal/isObjectLike.md)
+  * [isArguments](internal/isArguments)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
