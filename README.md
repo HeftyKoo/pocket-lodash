@@ -38,6 +38,7 @@
   * [getTag](internal/getTag.md)
   * [isObjectLike](internal/isObjectLike.md)
   * [isArguments](internal/isArguments.md)
+  * [isFlattenable](internal/isFlattenable.md)
 
 
 * [slice](slice.md)
