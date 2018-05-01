@@ -1,5 +1,9 @@
 # lodash源码分析之isFlattenable
 
+> 这时我回头看看鲁迅先生：老先生的相貌先就长得不一样。这张脸非常不买账，又非常无所谓，非常酷，又非常慈悲，看上去一脸的清苦、刚直、坦然，骨子里却透着风流与俏皮……可是他拍照片似乎不做什么表情，就那么对着镜头，意思是说：怎么样？我就是这样。
+>
+> ——陈丹青《笑谈大先生》
+
 本文为读 lodash 源码的第二十二篇，后续文章会更新到这个仓库中，欢迎 star：[pocket-lodash](https://github.com/yeyuqiudeng/pocket-lodash)
 
 gitbook也会同步仓库的更新，gitbook地址：[pocket-lodash](https://www.gitbook.com/book/yeyuqiudeng/pocket-lodash/details)
