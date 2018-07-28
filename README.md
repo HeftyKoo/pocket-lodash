@@ -39,6 +39,7 @@
   * [isObjectLike](internal/isObjectLike.md)
   * [isArguments](internal/isArguments.md)
   * [isFlattenable](internal/isFlattenable.md)
+  * [baseFlatten](internal/baseFlatten.md)
 
 
 * [slice](slice.md)
