@@ -15,7 +15,7 @@ import getTag from './.internal/getTag.js'
 import isObjectLike from './isObjectLike'
 ```
 
-《[lodash源码分析之数据类型获取的兼容性](getTag.md)》
+《[lodash源码分析之数据类型获取的兼容性](./internal/getTag.md)》
 
 《[lodash源码分析之isObjectLike](isObjectLike.md)》
 

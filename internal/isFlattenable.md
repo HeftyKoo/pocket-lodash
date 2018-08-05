@@ -14,7 +14,7 @@ gitbook也会同步仓库的更新，gitbook地址：[pocket-lodash](https://www
 import isArguments from '../isArguments.js'
 ```
 
-《[lodash源码分析之isArguments](isArguments.md)》
+《[lodash源码分析之isArguments](../isArguments.md)》
 
 ## 源码分析
 

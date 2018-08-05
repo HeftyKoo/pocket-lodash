@@ -36,8 +36,6 @@
   * [baseDifference](internal/baseDifference.md)
   * [baseGetTag](internal/baseGetTag.md)
   * [getTag](internal/getTag.md)
-  * [isObjectLike](internal/isObjectLike.md)
-  * [isArguments](internal/isArguments.md)
   * [isFlattenable](internal/isFlattenable.md)
   * [baseFlatten](internal/baseFlatten.md)
 
@@ -47,6 +45,8 @@
 * [compact](compact.md)
 * [eq](eq.md)
 * [map](map.md)
+* [isObjectLike](isObjectLike.md)
+* [isArguments](isArguments.md)
 
 ## License
 
