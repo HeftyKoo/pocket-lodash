@@ -26,5 +26,6 @@
 + [map](map.md)
 + [isObjectLike](isObjectLike.md)
 + [isArguments](isArguments.md)
++ [isLength](isLength.md)
 
 
