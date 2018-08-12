@@ -48,6 +48,7 @@
 * [isObjectLike](isObjectLike.md)
 * [isArguments](isArguments.md)
 * [isLength](isLength.md)
+* [isArrayLike](isArrayLike.md)
 
 ## License
 
