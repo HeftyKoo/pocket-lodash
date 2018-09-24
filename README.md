@@ -50,6 +50,7 @@
 * [isLength](isLength.md)
 * [isArrayLike](isArrayLike.md)
 * [isArrayLikeObject](isArrayLikeObject.md)
+* [difference](difference.md)
 
 ## License
 
