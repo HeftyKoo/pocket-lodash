@@ -93,7 +93,7 @@ const weakMapCtorString = `${WeakMap}`
 getTag(Promise.resolve()) != promiseTag
 ```
 
-在条件判断时，使用了 `Promise.resolve()` ，这样使用的目的是获取到 `promise` 对象，因为 `Promise` 是一个函数函数，如果直接调用 `Object.prototype.toString`，返回的是 `[object Function]`。
+在条件判断时，使用了 `Promise.resolve()` ，这样使用的目的是获取到 `promise` 对象，因为 `Promise` 是一个构造函数，如果直接调用 `Object.prototype.toString`，返回的是 `[object Function]`。
 
 ## License
 
