@@ -31,4 +31,5 @@
 + [isArrayLikeObject](isArrayLikeObject.md)
 + [difference](difference.md)
 + [last](last.md)
++ [differenceBy](differenceBy.md)
 
