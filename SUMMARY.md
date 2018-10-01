@@ -32,4 +32,5 @@
 + [difference](difference.md)
 + [last](last.md)
 + [differenceBy](differenceBy.md)
++ [differenceWith](differenceWith.md)
 
