@@ -34,4 +34,5 @@
 + [differenceBy](differenceBy.md)
 + [differenceWith](differenceWith.md)
 + [drop](drop.md)
++ [dropRight](dropRight.md)
 
