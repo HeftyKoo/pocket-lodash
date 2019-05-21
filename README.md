@@ -54,6 +54,7 @@
 * [last](last.md)
 * [differenceBy](differenceBy.md)
 * [differenceWith](differenceWith.md)
+* [drop](drop.md)
 
 ## License
 
