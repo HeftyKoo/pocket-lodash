@@ -19,6 +19,7 @@
   * [getTag](internal/getTag.md)
   * [isFlattenable](internal/isFlattenable.md)
   * [baseFlatten](internal/baseFlatten.md)
+  * [baseWhile](internal/baseWhile.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
