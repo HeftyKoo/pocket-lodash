@@ -57,6 +57,7 @@
 * [differenceWith](differenceWith.md)
 * [drop](drop.md)
 * [dropRight](dropRight.md)
+* [dropRightWhile](dropRightWhile.md)
 
 ## License
 
