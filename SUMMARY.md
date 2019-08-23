@@ -38,4 +38,5 @@
 + [dropRight](dropRight.md)
 + [dropRightWhile](dropRightWhile.md)
 + [dropWhile](dropWhile.md)
++ [findLastIndex](findLastIndex.md)
 
