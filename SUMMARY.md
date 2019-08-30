@@ -39,4 +39,5 @@
 + [dropRightWhile](dropRightWhile.md)
 + [dropWhile](dropWhile.md)
 + [findLastIndex](findLastIndex.md)
++ [head](head.md)
 
