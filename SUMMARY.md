@@ -40,4 +40,5 @@
 + [dropWhile](dropWhile.md)
 + [findLastIndex](findLastIndex.md)
 + [head](head.md)
++ [flatten](flatten.md)
 
