@@ -62,6 +62,8 @@
 * [findLastIndex](findLastIndex.md)
 * [head](head.md)
 * [flatten](flatten.md)
+* [flattenDeep](flattenDeep.md)
+* [flattenDepth](flattenDepth.md)
 
 ## License
 
