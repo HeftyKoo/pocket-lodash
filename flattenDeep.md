@@ -23,15 +23,15 @@ flattenDeep([1, [2, [3, [4]], 5]]) // [1, 2, 3, 4, 5]
 源码如下：
 
 ```javascript
-function flatten(array) {
+function flattenDeep(array) {
   const length = array == null ? 0 : array.length
-  return length ? baseFlatten(array, 1) : []
+  return length ? baseFlatten(array, INFINITY) : []
 }
 ```
 
-首先获取数组的长度，如果数组为 `null` 或者 `undefined`，则 `length` 默认为 `0`。
+源码里唯一的区别是，`baseFlatten` 的第二个参数为 `INFINITY` ，即无限级展平。
 
-然后判断 `length` 是否不为 `0` 。如果为 `0` ，则返回空数组，否则调用 `baseFlatten` ，注意 `baseFlatten` 第二个参数 `depth` 为 `1` ，即只展开一层。
+`flatten` 源码如下：[lodash源码分析之flatten](flatten.md)
 
 ## License
 
