@@ -10,7 +10,7 @@ gitbook也会同步仓库的更新，gitbook地址：[pocket-lodash](https://www
 import baseIndexOf from './.internal/baseIndexOf.js'
 ```
 
-[《lodash源码分析之baseIndexOf》](internal/baseFindIndex.md)
+[《lodash源码分析之baseIndexOf》](internal/baseIndexOf.md)
 
 ## 源码分析
 
