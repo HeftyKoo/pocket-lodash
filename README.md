@@ -65,6 +65,7 @@
 * [flattenDeep](flattenDeep.md)
 * [flattenDepth](flattenDepth.md)
 * [fromPairs](fromPairs.md)
+* [indexOf](indexOf.md)
 
 ## License
 
