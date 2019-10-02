@@ -43,4 +43,5 @@
 + [flatten](flatten.md)
 + [flattenDeep](flattenDeep.md)
 + [flattenDepth](flattenDepth.md)
++ [fromPairs](fromPairs.md)
 
