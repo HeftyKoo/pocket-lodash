@@ -45,4 +45,5 @@
 + [flattenDepth](flattenDepth.md)
 + [fromPairs](fromPairs.md)
 + [indexOf](indexOf.md)
++ [initial](initial.md)
 
