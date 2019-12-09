@@ -20,6 +20,7 @@
   * [isFlattenable](internal/isFlattenable.md)
   * [baseFlatten](internal/baseFlatten.md)
   * [baseWhile](internal/baseWhile.md)
+  * [baseIntersection](internal/baseIntersection.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
