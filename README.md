@@ -40,6 +40,7 @@
   * [baseFlatten](internal/baseFlatten.md)
   * [baseWhile](internal/baseWhile.md)
   * [baseIntersection](internal/baseIntersection.md)
+  * [castArrayLikeObject](internal/castArrayLikeObject)
 
 
 * [slice](slice.md)
