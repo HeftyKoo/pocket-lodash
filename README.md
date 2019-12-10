@@ -71,6 +71,7 @@
 * [initial](initial.md)
 * [intersection](intersection.md)
 * [intersectionBy](intersectionBy.md)
+* [intersectionWith](intersectionWith.md)
 
 ## License
 
