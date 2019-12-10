@@ -70,6 +70,7 @@
 * [indexOf](indexOf.md)
 * [initial](initial.md)
 * [intersection](intersection.md)
+* [intersectionBy](intersectionBy.md)
 
 ## License
 

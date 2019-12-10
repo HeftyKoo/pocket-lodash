@@ -12,7 +12,7 @@ import baseIntersection from './.internal/baseIntersection.js'
 import castArrayLikeObject from './.internal/castArrayLikeObject.js'
 ```
 
-[《lodash源码分析之map的实现》](../map.md)
+[《lodash源码分析之map的实现》](map.md)
 
 [《lodash源码分析之baseIntersection》](internal/baseIntersection.md)
 
