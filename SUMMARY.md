@@ -48,4 +48,5 @@
 + [fromPairs](fromPairs.md)
 + [indexOf](indexOf.md)
 + [initial](initial.md)
++ [intersection](intersection.md)
 
