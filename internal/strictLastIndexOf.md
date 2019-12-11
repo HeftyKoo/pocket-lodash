@@ -28,7 +28,7 @@ function strictLastIndexOf(array, value, fromIndex) {
 
 ## 相关链接
 
-[《lodash源码分析之strictIndexOf》](./strictLastIndexOf.md)
+[《lodash源码分析之strictIndexOf》](./strictIndexOf.md)
 
 ## License
 
