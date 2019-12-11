@@ -22,6 +22,7 @@
   * [baseWhile](internal/baseWhile.md)
   * [baseIntersection](internal/baseIntersection.md)
   * [castArrayLikeObject](internal/castArrayLikeObject.md)
+  * [strictLastIndexOf](internal/strictLastIndexOf.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
