@@ -74,6 +74,7 @@
 * [intersectionBy](intersectionBy.md)
 * [intersectionWith](intersectionWith.md)
 * [isObject](isObject.md)
+* [isSymbol](isSymbol.md)
 
 ## License
 
