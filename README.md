@@ -75,6 +75,7 @@
 * [intersectionWith](intersectionWith.md)
 * [isObject](isObject.md)
 * [isSymbol](isSymbol.md)
+* [toNumber](toNumber.md)
 
 ## License
 
