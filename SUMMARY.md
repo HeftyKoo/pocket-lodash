@@ -56,3 +56,4 @@
 + [isSymbol](isSymbol.md)
 + [toNumber](toNumber.md)
 + [toFinite](toFinite.md)
++ [toInteger](toInteger.md)
