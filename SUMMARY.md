@@ -55,3 +55,4 @@
 + [isObject](isObject.md)
 + [isSymbol](isSymbol.md)
 + [toNumber](toNumber.md)
++ [toFinite](toFinite.md)
