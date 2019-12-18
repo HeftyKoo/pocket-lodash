@@ -57,3 +57,4 @@
 + [toNumber](toNumber.md)
 + [toFinite](toFinite.md)
 + [toInteger](toInteger.md)
++ [lastIndexOf](lastIndexOf.md)
