@@ -80,6 +80,7 @@
 * [toFinite](toFinite.md)
 * [toInteger](toInteger.md)
 * [lastIndexOf](lastIndexOf.md)
+* [nth](nth.md)
 
 ## License
 
