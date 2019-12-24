@@ -43,6 +43,7 @@
   * [castArrayLikeObject](internal/castArrayLikeObject.md)
   * [strictLastIndexOf](internal/strictLastIndexOf.md)
   * [isIndex](internal/isIndex.md)
+  * [baseIndexOfWith](internal/baseIndexOfWith.md)
 
 
 * [slice](slice.md)
