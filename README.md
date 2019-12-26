@@ -44,6 +44,7 @@
   * [strictLastIndexOf](internal/strictLastIndexOf.md)
   * [isIndex](internal/isIndex.md)
   * [baseIndexOfWith](internal/baseIndexOfWith.md)
+  * [copyArray](internal/copyArray.md)
 
 
 * [slice](slice.md)
