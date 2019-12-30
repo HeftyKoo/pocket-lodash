@@ -63,3 +63,4 @@
 + [toInteger](toInteger.md)
 + [lastIndexOf](lastIndexOf.md)
 + [nth](nth.md)
++ [pullAll](pullAll.md)
