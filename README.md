@@ -45,6 +45,7 @@
   * [isIndex](internal/isIndex.md)
   * [baseIndexOfWith](internal/baseIndexOfWith.md)
   * [copyArray](internal/copyArray.md)
+  * [basePullAll](internal/basePullAll.md)
 
 
 * [slice](slice.md)
