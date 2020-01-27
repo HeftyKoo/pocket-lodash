@@ -65,3 +65,4 @@
 + [nth](nth.md)
 + [pullAll](pullAll.md)
 + [pull](pull.md)
++ [pullAllBy](pullAllBy.md)
