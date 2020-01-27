@@ -87,6 +87,7 @@
 * [pullAll](pullAll.md)
 * [pull](pull.md)
 * [pullAllBy](pullAllBy.md)
+* [pullAllWith](pullAllWith.md)
 
 ## License
 
