@@ -64,3 +64,4 @@
 + [lastIndexOf](lastIndexOf.md)
 + [nth](nth.md)
 + [pullAll](pullAll.md)
++ [pull](pull.md)
