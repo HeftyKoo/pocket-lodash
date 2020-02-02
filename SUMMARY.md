@@ -28,6 +28,7 @@
   * [copyArray](internal/copyArray.md)
   * [basePullAll](internal/basePullAll.md)
   * [isKey](internal/isKey.md)
+  * [memoizeCapped](internal/memoizeCapped.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
