@@ -29,6 +29,7 @@
   * [basePullAll](internal/basePullAll.md)
   * [isKey](internal/isKey.md)
   * [memoizeCapped](internal/memoizeCapped.md)
+  * [stringToPath](internal/stringToPath.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
@@ -69,4 +70,4 @@
 + [pull](pull.md)
 + [pullAllBy](pullAllBy.md)
 + [pullAllWith](pullAllWith.md)
-+ [lodash源码分析之memoize](memoize.md)
++ [memoize](memoize.md)
