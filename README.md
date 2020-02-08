@@ -50,6 +50,7 @@
   * [memoizeCapped](internal/memoizeCapped.md)
   * [stringToPath](internal/stringToPath.md)
   * [castPath](internal/castPath.md)
+  * [toKey](internal/toKey.md)
 
 
 * [slice](slice.md)
