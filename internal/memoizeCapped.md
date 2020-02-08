@@ -10,7 +10,7 @@ gitbook也会同步仓库的更新，gitbook地址：[pocket-lodash](https://www
 import memoize from '../memoize.js'
 ```
 
-[《lodash源码分析之memoizeCapped》](../memoize.md)
+[《lodash源码分析之memoize》](../memoize.md)
 
 ## 源码分析
 

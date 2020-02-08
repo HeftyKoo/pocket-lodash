@@ -30,6 +30,7 @@
   * [isKey](internal/isKey.md)
   * [memoizeCapped](internal/memoizeCapped.md)
   * [stringToPath](internal/stringToPath.md)
+  * [castPath](internal/castPath.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
