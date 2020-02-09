@@ -32,6 +32,7 @@
   * [stringToPath](internal/stringToPath.md)
   * [castPath](internal/castPath.md)
   * [toKey](internal/toKey.md)
+  * [baseGet](internal/baseGet.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
