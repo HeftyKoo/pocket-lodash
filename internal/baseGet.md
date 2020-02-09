@@ -11,9 +11,9 @@ import castPath from './castPath.js'
 import toKey from './toKey.js'
 ```
 
-[《lodash源码分析之castPath》](../castPath.md)
+[《lodash源码分析之castPath》](./castPath.md)
 
-[《lodash源码分析之toKey》](../toKey.md)
+[《lodash源码分析之toKey》](./toKey.md)
 
 ## 源码分析
 
