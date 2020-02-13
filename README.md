@@ -52,6 +52,7 @@
   * [castPath](internal/castPath.md)
   * [toKey](internal/toKey.md)
   * [baseGet](internal/baseGet.md)
+  * [baseAt](internal/baseAt.md)
 
 
 * [slice](slice.md)
