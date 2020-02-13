@@ -34,6 +34,7 @@
   * [toKey](internal/toKey.md)
   * [baseGet](internal/baseGet.md)
   * [baseAt](internal/baseAt.md)
+  * [parent](internal/parent.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
