@@ -54,6 +54,7 @@
   * [baseGet](internal/baseGet.md)
   * [baseAt](internal/baseAt.md)
   * [parent](internal/parent.md)
+  * [baseUnset](internal/baseUnset.md)
 
 
 * [slice](slice.md)
