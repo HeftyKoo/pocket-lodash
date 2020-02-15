@@ -55,6 +55,7 @@
   * [baseAt](internal/baseAt.md)
   * [parent](internal/parent.md)
   * [baseUnset](internal/baseUnset.md)
+  * [basePullAt](internal/basePullAt.md)
 
 
 * [slice](slice.md)
