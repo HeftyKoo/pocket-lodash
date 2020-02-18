@@ -56,6 +56,7 @@
   * [parent](internal/parent.md)
   * [baseUnset](internal/baseUnset.md)
   * [basePullAt](internal/basePullAt.md)
+  * [compareAscending](internal/compareAscending.md)
 
 
 * [slice](slice.md)
