@@ -14,7 +14,7 @@ import isSymbol from '../isSymbol.js'
 
 ## 源码分析
 
-先点位，后续再补。
+先占位，后续再补。
 
 ## License
 

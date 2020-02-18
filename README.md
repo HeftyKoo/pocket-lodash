@@ -101,6 +101,7 @@
 * [pullAllWith](pullAllWith.md)
 * [memoize](memoize.md)
 * [get](get.md)
+* [pullAt](pullAt.md)
 
 ## License
 
