@@ -102,6 +102,7 @@
 * [memoize](memoize.md)
 * [get](get.md)
 * [pullAt](pullAt.md)
+* [remove](remove.md)
 
 ## License
 
