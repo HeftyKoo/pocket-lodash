@@ -38,6 +38,7 @@
   * [baseUnset](internal/baseUnset.md)
   * [basePullAt](internal/basePullAt.md)
   * [compareAscending](internal/compareAscending.md)
+  * [baseSortedIndexBy](internal/baseSortedIndexBy.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
