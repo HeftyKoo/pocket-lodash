@@ -8,7 +8,6 @@ gitbook也会同步仓库的更新，gitbook地址：[pocket-lodash](https://www
 
 ```javascript
 import baseSortedIndex from './baseSortedIndex.js'
-import isSymbol from '../isSymbol.js'
 ```
 
 [《lodash源码分析之baseSortedIndex》](./baseSortedIndex.md)
