@@ -58,6 +58,7 @@
   * [basePullAt](internal/basePullAt.md)
   * [compareAscending](internal/compareAscending.md)
   * [baseSortedIndexBy](internal/baseSortedIndexBy.md)
+  * [baseSortedIndex](internal/baseSortedIndex.md)
 
 
 * [slice](slice.md)
