@@ -86,3 +86,4 @@
 + [remove](remove.md)
 + [sortedIndex](sortedIndex.md)
 + [sortedIndexBy](sortedIndexBy.md)
++ [sortedIndexOf](sortedIndexOf.md)
