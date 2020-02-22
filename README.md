@@ -106,6 +106,7 @@
 * [pullAt](pullAt.md)
 * [remove](remove.md)
 * [sortedIndex](sortedIndex.md)
+* [sortedIndexBy](sortedIndexBy.md)
 
 ## License
 
