@@ -87,3 +87,4 @@
 + [sortedIndex](sortedIndex.md)
 + [sortedIndexBy](sortedIndexBy.md)
 + [sortedIndexOf](sortedIndexOf.md)
++ [sortedLastIndex](sortedLastIndex.md)
