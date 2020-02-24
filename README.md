@@ -110,6 +110,7 @@
 * [sortedIndexOf](sortedIndexOf.md)
 * [sortedLastIndex](sortedLastIndex.md)
 * [sortedLastIndexBy](sortedLastIndexBy.md)
+* [sortedLastIndexOf](sortedLastIndexOf.md)
 
 ## License
 
