@@ -112,6 +112,7 @@
 * [sortedLastIndex](sortedLastIndex.md)
 * [sortedLastIndexBy](sortedLastIndexBy.md)
 * [sortedLastIndexOf](sortedLastIndexOf.md)
+* [sortedUniq](sortedUniq.md)
 
 ## License
 
