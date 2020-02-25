@@ -40,6 +40,7 @@
   * [compareAscending](internal/compareAscending.md)
   * [baseSortedIndexBy](internal/baseSortedIndexBy.md)
   * [baseSortedIndex](internal/baseSortedIndex.md)
+  * [baseSortedUniq](internal/baseSortedUniq.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
