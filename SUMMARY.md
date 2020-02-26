@@ -93,3 +93,4 @@
 + [sortedLastIndexOf](sortedLastIndexOf.md)
 + [sortedUniq](sortedUniq.md)
 + [sortedUniqBy](sortedUniqBy.md)
++ [tail](tail.md)
