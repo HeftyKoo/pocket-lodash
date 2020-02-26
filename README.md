@@ -116,6 +116,7 @@
 * [sortedUniqBy](sortedUniqBy.md)
 * [tail](tail.md)
 * [take](take.md)
+* [takeRight](takeRight.md)
 
 ## License
 
