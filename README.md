@@ -117,6 +117,7 @@
 * [tail](tail.md)
 * [take](take.md)
 * [takeRight](takeRight.md)
+* [takeRightWhile](takeRightWhile.md)
 
 ## License
 
