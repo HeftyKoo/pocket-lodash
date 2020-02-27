@@ -97,3 +97,4 @@
 + [take](take.md)
 + [takeRight](takeRight.md)
 + [takeRightWhile](takeRightWhile.md)
++ [takeWhile](takeWhile.md)
