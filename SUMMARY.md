@@ -42,6 +42,7 @@
   * [baseSortedIndex](internal/baseSortedIndex.md)
   * [baseSortedUniq](internal/baseSortedUniq.md)
   * [setToArray](internal/setToArray.md)
+  * [createSet](internal/createSet.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
