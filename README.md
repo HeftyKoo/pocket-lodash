@@ -60,6 +60,7 @@
   * [baseSortedIndexBy](internal/baseSortedIndexBy.md)
   * [baseSortedIndex](internal/baseSortedIndex.md)
   * [baseSortedUniq](internal/baseSortedUniq.md)
+  * [setToArray](internal/setToArray.md)
 
 
 * [slice](slice.md)
