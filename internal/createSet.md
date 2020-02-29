@@ -10,7 +10,7 @@ gitbook也会同步仓库的更新，gitbook地址：[pocket-lodash](https://www
 import setToArray from './setToArray.js'
 ```
 
-[lodash源码分析之setToArray](internal/setToArray.md)
+[《lodash源码分析之setToArray》](internal/setToArray.md)
 
 ## 源码分析
 
