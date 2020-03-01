@@ -101,3 +101,4 @@
 + [takeRight](takeRight.md)
 + [takeRightWhile](takeRightWhile.md)
 + [takeWhile](takeWhile.md)
++ [union](union.md)
