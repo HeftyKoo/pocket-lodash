@@ -103,3 +103,4 @@
 + [takeWhile](takeWhile.md)
 + [union](union.md)
 + [unionBy](unionBy.md)
++ [unionWith](unionWith.md)
