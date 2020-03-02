@@ -123,6 +123,7 @@
 * [takeRightWhile](takeRightWhile.md)
 * [takeWhile](takeWhile.md)
 * [union](union.md)
+* [unionBy](unionBy.md)
 
 ## License
 
