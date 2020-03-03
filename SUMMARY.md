@@ -105,3 +105,4 @@
 + [unionBy](unionBy.md)
 + [unionWith](unionWith.md)
 + [uniq](uniq.md)
++ [uniqBy](uniqBy.md)
