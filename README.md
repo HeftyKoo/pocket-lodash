@@ -125,6 +125,7 @@
 * [union](union.md)
 * [unionBy](unionBy.md)
 * [unionWith](unionWith.md)
+* [uniq](uniq.md)
 
 ## License
 
