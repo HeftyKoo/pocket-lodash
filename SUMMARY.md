@@ -106,3 +106,4 @@
 + [unionWith](unionWith.md)
 + [uniq](uniq.md)
 + [uniqBy](uniqBy.md)
++ [uniqWith](uniqWith.md)
