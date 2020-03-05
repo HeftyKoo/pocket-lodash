@@ -44,6 +44,7 @@
   * [setToArray](internal/setToArray.md)
   * [createSet](internal/createSet.md)
   * [baseUniq](internal/baseUniq.md)
+  * [baseProperty](internal/baseProperty.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
