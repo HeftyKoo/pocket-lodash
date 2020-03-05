@@ -110,3 +110,4 @@
 + [uniqWith](uniqWith.md)
 + [filter](filter.md)
 + [zip](zip.md)
++ [unzipWith](unzipWith.md)
