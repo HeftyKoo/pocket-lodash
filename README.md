@@ -128,6 +128,7 @@
 * [uniq](uniq.md)
 * [uniqBy](uniqBy.md)
 * [uniqWith](uniqWith.md)
+* [filter](filter.md)
 
 ## License
 
