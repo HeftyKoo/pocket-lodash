@@ -130,6 +130,7 @@
 * [uniqBy](uniqBy.md)
 * [uniqWith](uniqWith.md)
 * [filter](filter.md)
+* [zip](zip.md)
 
 ## License
 
