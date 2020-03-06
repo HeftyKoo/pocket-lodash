@@ -111,3 +111,4 @@
 + [filter](filter.md)
 + [zip](zip.md)
 + [unzipWith](unzipWith.md)
++ [without](without.md)
