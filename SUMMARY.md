@@ -113,3 +113,4 @@
 + [zip](zip.md)
 + [unzipWith](unzipWith.md)
 + [without](without.md)
++ [xor](xor.md)
