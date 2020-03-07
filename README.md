@@ -64,6 +64,7 @@
   * [createSet](internal/createSet.md)
   * [baseUniq](internal/baseUniq.md)
   * [baseProperty](internal/baseProperty.md)
+  * [baseXor](internal/baseXor.md)
 
 
 * [slice](slice.md)
