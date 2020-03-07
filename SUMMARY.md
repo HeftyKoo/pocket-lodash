@@ -114,3 +114,4 @@
 + [unzipWith](unzipWith.md)
 + [without](without.md)
 + [xor](xor.md)
++ [xorBy](xorBy.md)
