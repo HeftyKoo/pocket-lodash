@@ -136,6 +136,7 @@
 * [without](without.md)
 * [xor](xor.md)
 * [xorBy](xorBy.md)
+* [xorWith](xorWith.md)
 
 ## License
 
