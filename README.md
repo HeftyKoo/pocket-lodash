@@ -67,6 +67,7 @@
   * [baseXor](internal/baseXor.md)
   * [baseAssignValue](internal/baseAssignValue.md)
   * [assignValue](internal/assignValue.md)
+  * [baseZipObject](internal/baseZipObject.md)
 
 
 * [slice](slice.md)
