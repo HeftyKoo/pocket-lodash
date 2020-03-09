@@ -65,6 +65,8 @@
   * [baseUniq](internal/baseUniq.md)
   * [baseProperty](internal/baseProperty.md)
   * [baseXor](internal/baseXor.md)
+  * [baseAssignValue](internal/baseAssignValue.md)
+  * [assignValue](internal/assignValue.md)
 
 
 * [slice](slice.md)
