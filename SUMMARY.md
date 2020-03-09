@@ -120,3 +120,4 @@
 + [xorBy](xorBy.md)
 + [xorWith](xorWith.md)
 + [zip](zip.md)
++ [zipObject](zipObject.md)
