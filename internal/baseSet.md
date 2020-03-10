@@ -17,7 +17,7 @@ import toKey from './toKey.js'
 [《lodash源码分析之assignValue》](./assignValue.md)
 [《lodash源码分析之castPath》](./castPath.md)
 [《lodash源码分析之isIndex》](./isIndex.md)
-[《lodash源码分析之isObject》](./isObject.md)
+[《lodash源码分析之isObject》](../isObject.md)
 [《lodash源码分析之toKey》](./toKey.md)
 
 ## 源码分析
