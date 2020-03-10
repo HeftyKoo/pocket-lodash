@@ -144,6 +144,7 @@
 * [zip](zip.md)
 * [zipObject](zipObject.md)
 * [zipObjectDeep](zipObjectDeep.md)
+* [zipWith](zipWith.md)
 
 ## License
 
