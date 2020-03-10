@@ -68,6 +68,7 @@
   * [baseAssignValue](internal/baseAssignValue.md)
   * [assignValue](internal/assignValue.md)
   * [baseZipObject](internal/baseZipObject.md)
+  * [baseSet](internal/baseSet.md)
 
 
 * [slice](slice.md)
@@ -142,6 +143,7 @@
 * [xorWith](xorWith.md)
 * [zip](zip.md)
 * [zipObject](zipObject.md)
+* [zipObjectDeep](zipObjectDeep.md)
 
 ## License
 

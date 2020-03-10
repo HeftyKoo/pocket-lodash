@@ -49,6 +49,7 @@
   * [baseAssignValue](internal/baseAssignValue.md)
   * [assignValue](internal/assignValue.md)
   * [baseZipObject](internal/baseZipObject.md)
+  * [baseSet](internal/baseSet.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
@@ -121,3 +122,4 @@
 + [xorWith](xorWith.md)
 + [zip](zip.md)
 + [zipObject](zipObject.md)
++ [zipObjectDeep](zipObjectDeep.md)
