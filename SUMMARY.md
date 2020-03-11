@@ -50,6 +50,7 @@
   * [assignValue](internal/assignValue.md)
   * [baseZipObject](internal/baseZipObject.md)
   * [baseSet](internal/baseSet.md)
+  * [arrayReduce](internal/arrayReduce.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
