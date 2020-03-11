@@ -71,6 +71,7 @@
   * [baseSet](internal/baseSet.md)
   * [arrayReduce](internal/arrayReduce.md)
   * [baseFor](internal/baseFor.md)
+  * [freeGlobal](internal/freeGlobal.md)
 
 
 * [slice](slice.md)
