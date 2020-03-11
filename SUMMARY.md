@@ -51,6 +51,7 @@
   * [baseZipObject](internal/baseZipObject.md)
   * [baseSet](internal/baseSet.md)
   * [arrayReduce](internal/arrayReduce.md)
+  * [baseFor](internal/baseFor.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
