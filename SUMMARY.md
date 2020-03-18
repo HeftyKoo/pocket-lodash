@@ -53,6 +53,7 @@
   * [arrayReduce](internal/arrayReduce.md)
   * [baseFor](internal/baseFor.md)
   * [freeGlobal](internal/freeGlobal.md)
+  * [root](internal/root.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
