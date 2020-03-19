@@ -149,6 +149,7 @@
 * [zipObject](zipObject.md)
 * [zipObjectDeep](zipObjectDeep.md)
 * [zipWith](zipWith.md)
+* [isBuffer](isBuffer.md)
 
 ## License
 
