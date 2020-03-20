@@ -73,6 +73,7 @@
   * [baseFor](internal/baseFor.md)
   * [freeGlobal](internal/freeGlobal.md)
   * [root](internal/root.md)
+  * [nodeTypes](internal/nodeTypes.md)
 
 
 * [slice](slice.md)
