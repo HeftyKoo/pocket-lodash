@@ -12,7 +12,7 @@ import nodeTypes from './.internal/nodeTypes.js'
 import isObjectLike from './isObjectLike.js'
 ```
 
-[《lodash源码分析之getTag》](internal/getTag.md)
+[《lodash源码分析之数据类型获取的兼容性》](internal/getTag.md)
 [《lodash源码分析之nodeTypes》](internal/nodeTypes.md)
 [《lodash源码分析之isObjectLike》](./isObjectLike.md)
 
