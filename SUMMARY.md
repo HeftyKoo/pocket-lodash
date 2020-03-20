@@ -130,3 +130,4 @@
 + [zipObjectDeep](zipObjectDeep.md)
 + [zipWith](zipWith.md)
 + [isBuffer](isBuffer.md)
++ [isTypedArray](isTypedArray.md)
