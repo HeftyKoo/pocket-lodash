@@ -77,6 +77,7 @@
   * [arrayLikeKeys](internal/arrayLikeKeys.md)
   * [baseForOwn](internal/baseForOwn.md)
   * [baseEach](internal/baseEach.md)
+  * [baseReduce](internal/baseReduce.md)
 
 
 * [slice](slice.md)
