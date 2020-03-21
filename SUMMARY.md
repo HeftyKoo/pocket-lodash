@@ -132,3 +132,4 @@
 + [zipWith](zipWith.md)
 + [isBuffer](isBuffer.md)
 + [isTypedArray](isTypedArray.md)
++ [keys](keys.md)
