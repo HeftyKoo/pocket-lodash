@@ -55,6 +55,7 @@
   * [freeGlobal](internal/freeGlobal.md)
   * [root](internal/root.md)
   * [nodeTypes](internal/nodeTypes.md)
+  * [arrayLikeKeys](internal/arrayLikeKeys.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
