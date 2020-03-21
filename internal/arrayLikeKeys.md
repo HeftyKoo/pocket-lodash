@@ -113,10 +113,6 @@ for (const key in value) {
 
 符合条件的数组也存入 `result` 中。
 
-## 参考资料
-
-[ECMAScript 6 入门-ArrayBuffer](https://es6.ruanyifeng.com/#docs/arraybuffer)
-
 ## License
 
 [署名-非商业性使用-禁止演绎 4.0 国际 (CC BY-NC-ND 4.0)](http://creativecommons.org/licenses/by-nc-nd/4.0/)

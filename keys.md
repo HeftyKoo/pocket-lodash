@@ -34,10 +34,6 @@ function keys(object) {
 
 否则使用 `Object.keys` 收集属性，在收集的时候，会使用 `Object` 构造函数进行转换，避免传入非 `object` 类型。
 
-## 参考资料
-
-[ECMAScript 6 入门-ArrayBuffer](https://es6.ruanyifeng.com/#docs/arraybuffer)
-
 ## License
 
 [署名-非商业性使用-禁止演绎 4.0 国际 (CC BY-NC-ND 4.0)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
