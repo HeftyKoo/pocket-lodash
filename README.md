@@ -79,6 +79,7 @@
   * [baseEach](internal/baseEach.md)
   * [baseReduce](internal/baseReduce.md)
   * [arrayEach](internal/arrayEach.md)
+  * [arrayEachRight](internal/arrayEachRight.md)
 
 
 * [slice](slice.md)
