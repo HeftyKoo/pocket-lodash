@@ -82,6 +82,7 @@
   * [arrayEachRight](internal/arrayEachRight.md)
   * [baseForRight](internal/baseForRight.md)
   * [baseForOwnRight](internal/baseForOwnRight.md)
+  * [baseEachRight](internal/baseEachRight.md)
 
 
 * [slice](slice.md)
