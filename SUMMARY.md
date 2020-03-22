@@ -61,6 +61,7 @@
   * [baseReduce](internal/baseReduce.md)
   * [arrayEach](internal/arrayEach.md)
   * [arrayEachRight](internal/arrayEachRight.md)
+  * [baseForRight](internal/baseForRight.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
