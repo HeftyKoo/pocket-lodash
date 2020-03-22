@@ -165,6 +165,7 @@
 * [reduce](reduce.md)
 * [countBy](countBy.md)
 * [forEach](forEach.md)
+* [forEachRight](forEachRight.md)
 
 ## License
 
