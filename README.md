@@ -158,6 +158,7 @@
 * [isTypedArray](isTypedArray.md)
 * [keys](keys.md)
 * [reduce](reduce.md)
+* [countBy](countBy.md)
 
 ## License
 
