@@ -138,3 +138,4 @@
 + [keys](keys.md)
 + [reduce](reduce.md)
 + [countBy](countBy.md)
++ [forEach](forEach.md)
