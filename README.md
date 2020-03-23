@@ -169,6 +169,7 @@
 * [every](every.md)
 * [findLast](findLast.md)
 * [flatMap](flatMap.md)
+* [flatMapDeep](flatMapDeep.md)
 
 ## License
 
