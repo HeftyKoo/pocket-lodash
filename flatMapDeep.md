@@ -10,7 +10,7 @@ gitbook也会同步仓库的更新，gitbook地址：[pocket-lodash](https://www
 import baseFlatten from './.internal/baseFlatten.js'
 import map from './map.js'
 ```
-[lodash源码分析之findLastIndex](internal/baseFlatten.md)
+[lodash源码分析之baseFlatten](internal/baseFlatten.md)
 [lodash源码分析之map的实现](./map.md)
 
 ## 源码分析
