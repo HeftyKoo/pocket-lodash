@@ -147,3 +147,4 @@
 + [forEachRight](forEachRight.md)
 + [every](every.md)
 + [findLast](findLast.md)
++ [flatMap](flatMap.md)
