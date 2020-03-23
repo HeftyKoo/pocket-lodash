@@ -146,3 +146,4 @@
 + [forEach](forEach.md)
 + [forEachRight](forEachRight.md)
 + [every](every.md)
++ [findLast](findLast.md)
