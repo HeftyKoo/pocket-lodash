@@ -145,3 +145,4 @@
 + [countBy](countBy.md)
 + [forEach](forEach.md)
 + [forEachRight](forEachRight.md)
++ [every](every.md)
