@@ -153,3 +153,4 @@
 + [groupBy](groupBy.md)
 + [invoke](invoke.md)
 + [invokeMap](invokeMap.md)
++ [keyBy](keyBy.md)
