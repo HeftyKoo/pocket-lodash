@@ -172,6 +172,7 @@
 * [flatMapDeep](flatMapDeep.md)
 * [flatMapDepth](flatMapDepth.md)
 * [groupBy](groupBy.md)
+* [invoke](invoke.md)
 
 ## License
 
