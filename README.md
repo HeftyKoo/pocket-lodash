@@ -83,6 +83,7 @@
   * [baseForRight](internal/baseForRight.md)
   * [baseForOwnRight](internal/baseForOwnRight.md)
   * [baseEachRight](internal/baseEachRight.md)
+  * [baseSortBy](internal/baseSortBy.md)
 
 
 * [slice](slice.md)
