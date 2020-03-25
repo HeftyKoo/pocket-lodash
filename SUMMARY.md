@@ -65,6 +65,7 @@
   * [baseForOwnRight](internal/baseForOwnRight.md)
   * [baseEachRight](internal/baseEachRight.md)
   * [baseSortBy](internal/baseSortBy.md)
+  * [compareMultiple](internal/compareMultiple.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
