@@ -178,6 +178,7 @@
 * [invoke](invoke.md)
 * [invokeMap](invokeMap.md)
 * [keyBy](keyBy.md)
+* [orderBy](orderBy.md)
 
 ## License
 
