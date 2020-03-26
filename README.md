@@ -183,6 +183,7 @@
 * [partition](partition.md)
 * [reduceRight](reduceRight.md)
 * [filterObject](filterObject.md)
+* [negate](negate.md)
 
 ## License
 
