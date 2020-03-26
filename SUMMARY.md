@@ -67,6 +67,7 @@
   * [baseSortBy](internal/baseSortBy.md)
   * [compareMultiple](internal/compareMultiple.md)
   * [baseOrderBy](internal/baseOrderBy.md)
+  * [arrayReduceRight](internal/arrayReduceRight.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
