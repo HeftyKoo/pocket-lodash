@@ -160,3 +160,4 @@
 + [keyBy](keyBy.md)
 + [orderBy](orderBy.md)
 + [partition](partition.md)
++ [reduceRight](reduceRight.md)
