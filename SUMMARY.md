@@ -163,3 +163,4 @@
 + [reduceRight](reduceRight.md)
 + [filterObject](filterObject.md)
 + [negate](negate.md)
++ [reject](reject.md)
