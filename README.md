@@ -182,6 +182,7 @@
 * [orderBy](orderBy.md)
 * [partition](partition.md)
 * [reduceRight](reduceRight.md)
+* [filterObject](filterObject.md)
 
 ## License
 
