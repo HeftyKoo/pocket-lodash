@@ -165,3 +165,4 @@
 + [negate](negate.md)
 + [reject](reject.md)
 + [sample](sample.md)
++ [sampleSize](sampleSize.md)
