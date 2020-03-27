@@ -11,7 +11,7 @@ import copyArray from './.internal/copyArray.js'
 import slice from './slice.js'
 ```
 
-[《lodash源码分析之filter》](internal/copyArray.md)
+[《lodash源码分析之copyArray》](internal/copyArray.md)
 [《读lodash源码之从slice看稀疏数组与密集数组》](slice.md)
 
 ## 源码分析
