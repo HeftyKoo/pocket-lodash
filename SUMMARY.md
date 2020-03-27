@@ -166,3 +166,4 @@
 + [reject](reject.md)
 + [sample](sample.md)
 + [sampleSize](sampleSize.md)
++ [shuffle](shuffle.md)
