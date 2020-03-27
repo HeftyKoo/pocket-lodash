@@ -164,3 +164,4 @@
 + [filterObject](filterObject.md)
 + [negate](negate.md)
 + [reject](reject.md)
++ [sample](sample.md)
