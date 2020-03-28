@@ -172,3 +172,4 @@
 + [sampleSize](sampleSize.md)
 + [shuffle](shuffle.md)
 + [isString](isString.md)
++ [size](size.md)
