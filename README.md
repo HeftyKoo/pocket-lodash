@@ -87,6 +87,9 @@
   * [compareMultiple](internal/compareMultiple.md)
   * [baseOrderBy](internal/baseOrderBy.md)
   * [arrayReduceRight](internal/arrayReduceRight.md)
+  * [asciiSize](internal/asciiSize.md)
+  * [hasUnicode](internal/hasUnicode.md)
+  * [unicodeSize](internal/unicodeSize.md)
 
 
 * [slice](slice.md)
