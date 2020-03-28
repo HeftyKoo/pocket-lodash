@@ -90,6 +90,7 @@
   * [asciiSize](internal/asciiSize.md)
   * [hasUnicode](internal/hasUnicode.md)
   * [unicodeSize](internal/unicodeSize.md)
+  * [stringSize](internal/stringSize.md)
 
 
 * [slice](slice.md)
