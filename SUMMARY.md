@@ -173,3 +173,4 @@
 + [shuffle](shuffle.md)
 + [isString](isString.md)
 + [size](size.md)
++ [after](after.md)
