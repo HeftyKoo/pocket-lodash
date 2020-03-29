@@ -174,3 +174,4 @@
 + [isString](isString.md)
 + [size](size.md)
 + [after](after.md)
++ [before](before.md)
