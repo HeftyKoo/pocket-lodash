@@ -175,3 +175,4 @@
 + [size](size.md)
 + [after](after.md)
 + [before](before.md)
++ [debounce](debounce.md)
