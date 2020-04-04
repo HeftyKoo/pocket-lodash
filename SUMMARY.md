@@ -176,3 +176,4 @@
 + [after](after.md)
 + [before](before.md)
 + [debounce](debounce.md)
++ [throttle](throttle.md)
