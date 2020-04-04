@@ -178,3 +178,4 @@
 + [debounce](debounce.md)
 + [throttle](throttle.md)
 + [defer](defer.md)
++ [delay](delay.md)
