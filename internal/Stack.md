@@ -13,7 +13,7 @@ import MapCache from './MapCache.js'
 
 [《lodash源码分析之List缓存》](./ListCache.md)
 
-[《lodash源码分析之缓存方式的选择》](./MapCachemd)
+[《lodash源码分析之缓存方式的选择》](./MapCache.md)
 
 ## 源码分析
 
