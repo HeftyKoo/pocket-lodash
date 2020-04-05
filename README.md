@@ -203,6 +203,7 @@
 * [flip](flip.md)
 * [once](once.md)
 * [overArgs](overArgs.md)
+* [castArray](castArray.md)
 
 ## License
 
