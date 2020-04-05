@@ -180,3 +180,5 @@
 + [defer](defer.md)
 + [delay](delay.md)
 + [flip](flip.md)
++ [once](once.md)
+
