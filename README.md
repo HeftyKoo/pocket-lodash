@@ -91,6 +91,7 @@
   * [hasUnicode](internal/hasUnicode.md)
   * [unicodeSize](internal/unicodeSize.md)
   * [stringSize](internal/stringSize.md)
+  * [Stack](internal/Stack.md)
 
 
 * [slice](slice.md)
