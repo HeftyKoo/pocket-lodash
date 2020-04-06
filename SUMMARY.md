@@ -73,6 +73,7 @@
   * [unicodeSize](internal/unicodeSize.md)
   * [stringSize](internal/stringSize.md)
   * [Stack](internal/Stack.md)
+  * [cloneBuffer](internal/cloneBuffer.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
