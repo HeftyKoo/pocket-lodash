@@ -95,6 +95,7 @@
   * [cloneBuffer](internal/cloneBuffer.md)
   * [copyObject](internal/copyObject.md)
   * [copyArrayBuffer](internal/copyArrayBuffer.md)
+  * [cloneDataView](internal/cloneDataView.md)
 
 
 * [slice](slice.md)
