@@ -1,4 +1,4 @@
-# lodash源码分析之copyArrayBuffer
+# lodash源码分析之cloneArrayBuffer
 
 本文为读 lodash 源码的第一百八十四篇，后续文章会更新到这个仓库中，欢迎 star：[pocket-lodash](https://github.com/yeyuqiudeng/pocket-lodash)
 
