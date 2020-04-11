@@ -78,6 +78,7 @@
   * [copyArrayBuffer](internal/copyArrayBuffer.md)
   * [cloneDataView](internal/cloneDataView.md)
   * [cloneTypedArray](internal/cloneTypedArray.md)
+  * [cloneRegExp](internal/cloneRegExp.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
