@@ -50,10 +50,6 @@ copy.lastIndex // ?
 
 因此在复制的时候也需要将 `lastIndex` 的属性调整。
 
-## 参考
-
-[《lodash源码分析之cloneArrayBuffer》](./cloneDataView.md)
-
 ## License
 
 [署名-非商业性使用-禁止演绎 4.0 国际 (CC BY-NC-ND 4.0)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
