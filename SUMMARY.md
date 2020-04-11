@@ -75,6 +75,7 @@
   * [Stack](internal/Stack.md)
   * [cloneBuffer](internal/cloneBuffer.md)
   * [copyObject](internal/copyObject.md)
+  * [copyArrayBuffer](internal/copyArrayBuffer.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
