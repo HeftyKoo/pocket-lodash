@@ -98,6 +98,7 @@
   * [cloneDataView](internal/cloneDataView.md)
   * [cloneTypedArray](internal/cloneTypedArray.md)
   * [cloneRegExp](internal/cloneRegExp.md)
+  * [cloneSymbol](internal/cloneSymbol.md)
 
 
 * [slice](slice.md)
