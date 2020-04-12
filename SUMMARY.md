@@ -80,6 +80,7 @@
   * [cloneTypedArray](internal/cloneTypedArray.md)
   * [cloneRegExp](internal/cloneRegExp.md)
   * [cloneSymbol](internal/cloneSymbol.md)
+  * [getSymbols](internal/getSymbols.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
