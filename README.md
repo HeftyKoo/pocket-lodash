@@ -101,6 +101,7 @@
   * [cloneSymbol](internal/cloneSymbol.md)
   * [getSymbols](internal/getSymbols.md)
   * [copySymbols](internal/copySymbols.md)
+  * [getSymbolsIn](internal/getSymbolsIn.md)
 
 
 * [slice](slice.md)
