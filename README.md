@@ -102,6 +102,7 @@
   * [getSymbols](internal/getSymbols.md)
   * [copySymbols](internal/copySymbols.md)
   * [getSymbolsIn](internal/getSymbolsIn.md)
+  * [copySymbolsIn](internal/copySymbolsIn.md)
 
 
 * [slice](slice.md)
