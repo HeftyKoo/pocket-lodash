@@ -35,7 +35,11 @@ function getAllKeysIn(object) {
 
 可以看到，首先用 `for...in` 来收集非 `Symbol` 类型的属性，因为 `for...in` 会遍历原型链。
 
-接着，非数组类型的 `object` 会调用 `getSymbolsIn` 来收集 `Symbold` 类型的属性。
+接着，非数组类型的 `object` 会调用 `getSymbolsIn` 来收集 `Symbol` 类型的属性。
+
+## 相关资料
+
+[《lodash源码分析之getAllKeys》](./getAllKeys.md)
 
 ## License
 
