@@ -220,6 +220,7 @@
 * [once](once.md)
 * [overArgs](overArgs.md)
 * [castArray](castArray.md)
+* [keysIn](keysIn.md)
 
 ## License
 
