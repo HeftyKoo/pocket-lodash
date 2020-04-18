@@ -86,6 +86,7 @@
   * [copySymbolsIn](internal/copySymbolsIn.md)
   * [getAllKeys](internal/getAllKeys.md)
   * [getAllKeysIn](internal/getAllKeysIn.md)
+  * [isPrototype](internal/isPrototype.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
