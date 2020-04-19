@@ -88,6 +88,7 @@
   * [getAllKeysIn](internal/getAllKeysIn.md)
   * [isPrototype](internal/isPrototype.md)
   * [initCloneObject](internal/initCloneObject.md)
+  * [baseClone](internal/baseClone.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
