@@ -31,7 +31,7 @@ import keys from '../keys.js'
 import keysIn from '../keysIn.js'
 ```
 
-[《lodash源码分析之baseClone》](./Stack.md)
+[《lodash源码分析之Stack》](./Stack.md)
 [《lodash源码分析之arrayEach》](./arrayEach.md)
 [《lodash源码分析之assignValue》](./assignValue.md)
 [《lodash源码分析之cloneBuffer》](./cloneBuffer.md)
