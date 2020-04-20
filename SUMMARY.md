@@ -89,6 +89,7 @@
   * [isPrototype](internal/isPrototype.md)
   * [initCloneObject](internal/initCloneObject.md)
   * [baseClone](internal/baseClone.md)
+  * [baseConformsTo](internal/baseConformsTo.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
