@@ -225,6 +225,7 @@
 * [clone](clone.md)
 * [cloneDeep](cloneDeep.md)
 * [cloneDeepWith](cloneDeepWith.md)
+* [cloneWith](cloneWith.md)
 
 ## License
 
