@@ -207,4 +207,5 @@
 + [cloneDeepWith](cloneDeepWith.md)
 + [cloneWith](cloneWith.md)
 + [conformsTo](conformsTo.md)
++ [gt](gt.md)
 
