@@ -208,4 +208,5 @@
 + [cloneWith](cloneWith.md)
 + [conformsTo](conformsTo.md)
 + [gt](gt.md)
++ [gte](gte.md)
 
