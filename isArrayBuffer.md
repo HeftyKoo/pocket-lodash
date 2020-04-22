@@ -16,7 +16,7 @@ import nodeTypes from './.internal/nodeTypes.js'
 
 《[lodash源码分析之isObjectLike](isObjectLike.md)》
 
-《[lodash源码分析之isObjectLike](./internal/nodeTypes.md)》
+《[lodash源码分析之nodeTypes](./internal/nodeTypes.md)》
 
 ## 源码分析
 
