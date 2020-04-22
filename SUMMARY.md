@@ -211,4 +211,5 @@
 + [gte](gte.md)
 + [isArrayBuffer](isArrayBuffer.md)
 + [isBoolean](isBoolean.md)
++ [isDate](isDate.md)
 
