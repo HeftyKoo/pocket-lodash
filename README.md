@@ -231,6 +231,7 @@
 * [gt](gt.md)
 * [gte](gte.md)
 * [isArrayBuffer](isArrayBuffer.md)
+* [isBoolean](isBoolean.md)
 
 ## License
 
