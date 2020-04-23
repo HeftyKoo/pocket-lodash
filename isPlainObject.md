@@ -51,6 +51,22 @@ if (!isObjectLike(value) || getTag(value) != '[object Object]') {
 
 再用 `getTag` 来获取类型标签，通过类型标签再排除掉除了类对象类型。
 
+这里需要注意，如果通过 `Symbol.toStringTag` 更改了 `tag` ，也会返回 `false`。
+
+例如：
+
+```javascript
+var object = {};
+Object.defineProperty(object, Symbol.toStringTag, {
+  'configurable': true,
+  'enumerable': false,
+  'writable': false,
+  'value': 'Test'
+})
+```
+
+通过 `getTag` 获取到的会是 `[object Test]` ，通不过检测。
+
 ### 原型为null的对象
 
 ```javascript
