@@ -212,4 +212,5 @@
 + [isArrayBuffer](isArrayBuffer.md)
 + [isBoolean](isBoolean.md)
 + [isDate](isDate.md)
++ [isPlainObject](isPlainObject.md)
 
