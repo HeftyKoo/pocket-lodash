@@ -213,4 +213,5 @@
 + [isBoolean](isBoolean.md)
 + [isDate](isDate.md)
 + [isPlainObject](isPlainObject.md)
++ [isElement](isElement.md)
 
