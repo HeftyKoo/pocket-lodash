@@ -215,4 +215,5 @@
 + [isPlainObject](isPlainObject.md)
 + [isElement](isElement.md)
 + [isEmpty](isEmpty.md)
++ [some](some.md)
 
