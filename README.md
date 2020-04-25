@@ -235,6 +235,7 @@
 * [isDate](isDate.md)
 * [isPlainObject](isPlainObject.md)
 * [isElement](isElement.md)
+* [isEmpty](isEmpty.md)
 
 ## License
 
