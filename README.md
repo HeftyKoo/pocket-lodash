@@ -12,7 +12,7 @@
 
 ## 源码版本
 
-[lodash v4.17.4](https://github.com/lodash/lodash)
+[lodash master 分支](https://github.com/lodash/lodash)
 
 ## GitBook
 
