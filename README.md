@@ -109,6 +109,7 @@
   * [initCloneObject](internal/initCloneObject.md)
   * [baseClone](internal/baseClone.md)
   * [baseConformsTo](internal/baseConformsTo.md)
+  * [equalArrays](internal/equalArrays.md)
 
 
 * [slice](slice.md)
