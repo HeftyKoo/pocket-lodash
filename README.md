@@ -110,6 +110,7 @@
   * [baseClone](internal/baseClone.md)
   * [baseConformsTo](internal/baseConformsTo.md)
   * [equalArrays](internal/equalArrays.md)
+  * [mapToArray](internal/mapToArray.md)
 
 
 * [slice](slice.md)
