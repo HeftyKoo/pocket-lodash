@@ -111,6 +111,7 @@
   * [baseConformsTo](internal/baseConformsTo.md)
   * [equalArrays](internal/equalArrays.md)
   * [mapToArray](internal/mapToArray.md)
+  * [equalByTag](internal/equalByTag.md)
 
 
 * [slice](slice.md)
