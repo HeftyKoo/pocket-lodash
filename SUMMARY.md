@@ -93,6 +93,7 @@
   * [equalArrays](internal/equalArrays.md)
   * [mapToArray](internal/mapToArray.md)
   * [equalByTag](internal/equalByTag.md)
+  * [equalObjects](internal/equalObjects.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
