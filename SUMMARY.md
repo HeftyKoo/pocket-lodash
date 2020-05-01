@@ -223,4 +223,5 @@
 + [isEmpty](isEmpty.md)
 + [some](some.md)
 + [eqDeep](eqDeep.md)
++ [isEqualWith](isEqualWith.md)
 
