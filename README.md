@@ -114,6 +114,7 @@
   * [equalByTag](internal/equalByTag.md)
   * [equalObjects](internal/equalObjects.md)
   * [baseIsEqualDeep](internal/baseIsEqualDeep.md)
+  * [baseIsEqual](internal/baseIsEqual.md)
 
 
 * [slice](slice.md)
