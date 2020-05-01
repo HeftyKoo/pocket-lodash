@@ -225,4 +225,5 @@
 + [eqDeep](eqDeep.md)
 + [isEqualWith](isEqualWith.md)
 + [isError](isError.md)
++ [isFunction](isFunction.md)
 
