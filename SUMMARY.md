@@ -224,4 +224,5 @@
 + [some](some.md)
 + [eqDeep](eqDeep.md)
 + [isEqualWith](isEqualWith.md)
++ [isError](isError.md)
 
