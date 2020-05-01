@@ -243,6 +243,7 @@
 * [isElement](isElement.md)
 * [isEmpty](isEmpty.md)
 * [some](some.md)
+* [eqDeep](eqDeep.md)
 
 ## License
 
