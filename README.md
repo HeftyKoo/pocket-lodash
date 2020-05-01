@@ -113,6 +113,7 @@
   * [mapToArray](internal/mapToArray.md)
   * [equalByTag](internal/equalByTag.md)
   * [equalObjects](internal/equalObjects.md)
+  * [baseIsEqualDeep](internal/baseIsEqualDeep.md)
 
 
 * [slice](slice.md)
