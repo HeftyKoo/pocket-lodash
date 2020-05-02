@@ -226,4 +226,5 @@
 + [isEqualWith](isEqualWith.md)
 + [isError](isError.md)
 + [isFunction](isFunction.md)
++ [isMap](isMap.md)
 
