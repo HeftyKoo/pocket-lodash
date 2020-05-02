@@ -98,6 +98,7 @@
   * [baseIsEqual](internal/baseIsEqual.md)
   * [isStrictComparable](internal/isStrictComparable.md)
   * [getMatchData](internal/getMatchData.md)
+  * [baseIsMatch](internal/baseIsMatch.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
