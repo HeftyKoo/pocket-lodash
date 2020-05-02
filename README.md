@@ -252,6 +252,7 @@
 * [isFunction](isFunction.md)
 * [isMap](isMap.md)
 * [isMatch](isMatch.md)
+* [isMatchWith](isMatchWith.md)
 
 ## License
 
