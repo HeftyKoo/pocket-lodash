@@ -230,4 +230,5 @@
 + [isError](isError.md)
 + [isFunction](isFunction.md)
 + [isMap](isMap.md)
++ [isMatch](isMatch.md)
 
