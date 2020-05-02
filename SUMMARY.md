@@ -96,6 +96,7 @@
   * [equalObjects](internal/equalObjects.md)
   * [baseIsEqualDeep](internal/baseIsEqualDeep.md)
   * [baseIsEqual](internal/baseIsEqual.md)
+  * [isStrictComparable](internal/isStrictComparable.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
