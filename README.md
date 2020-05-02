@@ -116,6 +116,7 @@
   * [baseIsEqualDeep](internal/baseIsEqualDeep.md)
   * [baseIsEqual](internal/baseIsEqual.md)
   * [isStrictComparable](internal/isStrictComparable.md)
+  * [getMatchData](internal/getMatchData.md)
 
 
 * [slice](slice.md)
