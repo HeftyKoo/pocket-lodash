@@ -236,4 +236,5 @@
 + [isNil](isNil.md)
 + [isNull](isNull.md)
 + [isNumber](isNumber.md)
++ [isRegExp](isRegExp.md)
 
