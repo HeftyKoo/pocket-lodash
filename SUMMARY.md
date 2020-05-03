@@ -233,4 +233,5 @@
 + [isMatch](isMatch.md)
 + [isMatchWith](isMatchWith.md)
 + [isNative](isNative.md)
++ [isNil](isNil.md)
 
