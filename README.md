@@ -259,6 +259,7 @@
 * [isNumber](isNumber.md)
 * [isRegExp](isRegExp.md)
 * [isSet](isSet.md)
+* [isUndefined](isUndefined.md)
 
 ## License
 
