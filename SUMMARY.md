@@ -235,4 +235,5 @@
 + [isNative](isNative.md)
 + [isNil](isNil.md)
 + [isNull](isNull.md)
++ [isNumber](isNumber.md)
 
