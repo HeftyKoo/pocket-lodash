@@ -253,6 +253,7 @@
 * [isMap](isMap.md)
 * [isMatch](isMatch.md)
 * [isMatchWith](isMatchWith.md)
+* [isNative](isNative.md)
 
 ## License
 
