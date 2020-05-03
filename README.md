@@ -255,6 +255,7 @@
 * [isMatchWith](isMatchWith.md)
 * [isNative](isNative.md)
 * [isNil](isNil.md)
+* [isNull](isNull.md)
 
 ## License
 
