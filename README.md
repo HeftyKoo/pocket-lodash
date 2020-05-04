@@ -263,6 +263,7 @@
 * [isWeakMap](isWeakMap.md)
 * [isWeakSet](isWeakSet.md)
 * [lt](lt.md)
+* [lte](lte.md)
 
 ## License
 
