@@ -262,6 +262,7 @@
 * [isUndefined](isUndefined.md)
 * [isWeakMap](isWeakMap.md)
 * [isWeakSet](isWeakSet.md)
+* [lt](lt.md)
 
 ## License
 
