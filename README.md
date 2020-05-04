@@ -270,6 +270,7 @@
 * [lt](lt.md)
 * [lte](lte.md)
 * [values](values.md)
+* [toArray](toArray.md)
 
 ## License
 
