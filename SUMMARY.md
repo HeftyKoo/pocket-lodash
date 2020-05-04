@@ -103,6 +103,7 @@
   * [asciiToArray](internal/asciiToArray.md)
   * [unicodeToArray](internal/unicodeToArray.md)
   * [stringToArray](internal/stringToArray.md)
+  * [baseValues](internal/baseValues.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
@@ -247,4 +248,5 @@
 + [isWeakSet](isWeakSet.md)
 + [lt](lt.md)
 + [lte](lte.md)
++ [values](values.md)
 

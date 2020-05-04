@@ -122,6 +122,7 @@
   * [asciiToArray](internal/asciiToArray.md)
   * [unicodeToArray](internal/unicodeToArray.md)
   * [stringToArray](internal/stringToArray.md)
+  * [baseValues](internal/baseValues.md)
 
 
 * [slice](slice.md)
@@ -268,6 +269,7 @@
 * [isWeakSet](isWeakSet.md)
 * [lt](lt.md)
 * [lte](lte.md)
+* [values](values.md)
 
 ## License
 
