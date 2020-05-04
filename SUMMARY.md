@@ -239,4 +239,5 @@
 + [isRegExp](isRegExp.md)
 + [isSet](isSet.md)
 + [isUndefined](isUndefined.md)
++ [isWeakMap](isWeakMap.md)
 
