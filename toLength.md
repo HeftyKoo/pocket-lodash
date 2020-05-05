@@ -49,6 +49,12 @@ function toLength(value) {
 
 如果在正常的范围内，则返回转换后的整数 `value` 即可。
 
+## 参考资料
+
+[ECMASript](http://ecma-international.org/ecma-262/7.0/#sec-tolength)
+
+[MDN: Array.prototype.length](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/length)
+
 ## License
 
 [署名-非商业性使用-禁止演绎 4.0 国际 (CC BY-NC-ND 4.0)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
