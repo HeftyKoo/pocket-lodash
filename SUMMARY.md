@@ -104,6 +104,7 @@
   * [unicodeToArray](internal/unicodeToArray.md)
   * [stringToArray](internal/stringToArray.md)
   * [baseValues](internal/baseValues.md)
+  * [baseToNumber](internal/baseToNumber.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
