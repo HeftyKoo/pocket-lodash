@@ -251,4 +251,5 @@
 + [values](values.md)
 + [toArray](toArray.md)
 + [toLength](toLength.md)
++ [toPlainObject](toPlainObject.md)
 
