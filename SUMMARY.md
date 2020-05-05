@@ -252,4 +252,5 @@
 + [toArray](toArray.md)
 + [toLength](toLength.md)
 + [toPlainObject](toPlainObject.md)
++ [toSafeInteger](toSafeInteger.md)
 
