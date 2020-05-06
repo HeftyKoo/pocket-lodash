@@ -124,6 +124,8 @@
   * [stringToArray](internal/stringToArray.md)
   * [baseValues](internal/baseValues.md)
   * [baseToNumber](internal/baseToNumber.md)
+  * [baseToString](internal/baseToString.md)
+  * [createMathOperation](internal/createMathOperation.md)
 
 
 * [slice](slice.md)
@@ -276,6 +278,7 @@
 * [toPlainObject](toPlainObject.md)
 * [toSafeInteger](toSafeInteger.md)
 * [toString](toString.md)
+* [add](add.md)
 
 ## License
 
