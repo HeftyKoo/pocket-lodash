@@ -126,6 +126,7 @@
   * [baseToNumber](internal/baseToNumber.md)
   * [baseToString](internal/baseToString.md)
   * [createMathOperation](internal/createMathOperation.md)
+  * [createRound](internal/createRound.md)
 
 
 * [slice](slice.md)
