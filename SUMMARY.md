@@ -261,4 +261,5 @@
 + [add](add.md)
 + [ceil](ceil.md)
 + [divide](divide.md)
++ [floor](floor.md)
 
