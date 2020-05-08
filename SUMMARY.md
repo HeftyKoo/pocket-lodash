@@ -262,4 +262,5 @@
 + [ceil](ceil.md)
 + [divide](divide.md)
 + [floor](floor.md)
++ [maxBy](maxBy.md)
 
