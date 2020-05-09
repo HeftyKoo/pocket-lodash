@@ -288,6 +288,7 @@
 + [meanBy](meanBy.md)
 + [mean](mean.md)
 + [minBy](minBy.md)
++ [multiply](multiply.md)
 
 ## License
 
