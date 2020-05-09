@@ -281,6 +281,13 @@
 * [toSafeInteger](toSafeInteger.md)
 * [toString](toString.md)
 * [add](add.md)
+* [ceil](ceil.md)
++ [divide](divide.md)
++ [floor](floor.md)
++ [maxBy](maxBy.md)
++ [meanBy](meanBy.md)
++ [mean](mean.md)
++ [minBy](minBy.md)
 
 ## License
 

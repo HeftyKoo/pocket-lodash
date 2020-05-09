@@ -266,4 +266,5 @@
 + [maxBy](maxBy.md)
 + [meanBy](meanBy.md)
 + [mean](mean.md)
++ [minBy](minBy.md)
 
