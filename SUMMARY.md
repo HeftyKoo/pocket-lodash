@@ -265,4 +265,5 @@
 + [floor](floor.md)
 + [maxBy](maxBy.md)
 + [meanBy](meanBy.md)
++ [mean](mean.md)
 
