@@ -269,4 +269,5 @@
 + [minBy](minBy.md)
 + [multiply](multiply.md)
 + [round](round.md)
++ [subtract](subtract.md)
 
