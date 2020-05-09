@@ -264,4 +264,5 @@
 + [divide](divide.md)
 + [floor](floor.md)
 + [maxBy](maxBy.md)
++ [meanBy](meanBy.md)
 
