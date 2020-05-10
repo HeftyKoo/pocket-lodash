@@ -109,6 +109,7 @@
   * [createMathOperation](internal/createMathOperation.md)
   * [createRound](internal/createRound.md)
   * [baseSum](internal/baseSum.md)
+  * [baseInRange](internal/baseInRange.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
