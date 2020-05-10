@@ -270,4 +270,5 @@
 + [multiply](multiply.md)
 + [round](round.md)
 + [subtract](subtract.md)
++ [sum](sum.md)
 
