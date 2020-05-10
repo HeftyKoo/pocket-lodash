@@ -272,4 +272,5 @@
 + [subtract](subtract.md)
 + [sum](sum.md)
 + [sumBy](sumBy.md)
++ [clamp](clamp.md)
 
