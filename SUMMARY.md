@@ -271,4 +271,5 @@
 + [round](round.md)
 + [subtract](subtract.md)
 + [sum](sum.md)
++ [sumBy](sumBy.md)
 
