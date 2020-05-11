@@ -296,6 +296,7 @@
 + [sumBy](sumBy.md)
 + [clamp](clamp.md)
 + [inRange](inRange.md)
++ [random](random.md)
 
 ## License
 
