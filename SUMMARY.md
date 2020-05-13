@@ -110,6 +110,7 @@
   * [createRound](internal/createRound.md)
   * [baseSum](internal/baseSum.md)
   * [baseInRange](internal/baseInRange.md)
+  * [assignMergeValue](internal/assignMergeValue.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
