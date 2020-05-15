@@ -130,6 +130,8 @@
   * [baseSum](internal/baseSum.md)
   * [baseInRange](internal/baseInRange.md)
   * [assignMergeValue](internal/assignMergeValue.md)
+  * [baseMergeDeep](internal/baseMergeDeep.md)
+  * [baseMerge](internal/baseMerge.md)
 
 
 * [slice](slice.md)
