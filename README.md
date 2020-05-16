@@ -305,6 +305,7 @@
 + [create](create.md)
 + [defaults](defaults.md)
 + [mergeWith](mergeWith.md)
++ [defaultsDeep](defaultsDeep.md)
 
 ## License
 
