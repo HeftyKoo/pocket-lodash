@@ -304,6 +304,7 @@
 + [at](at.md)
 + [create](create.md)
 + [defaults](defaults.md)
++ [mergeWith](mergeWith.md)
 
 ## License
 
