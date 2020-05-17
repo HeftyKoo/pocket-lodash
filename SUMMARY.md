@@ -114,6 +114,7 @@
   * [baseMergeDeep](internal/baseMergeDeep.md)
   * [baseMerge](internal/baseMerge.md)
   * [createAssigner](internal/createAssigner.md)
+  * [baseFindKey](internal/baseFindKey.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
@@ -287,3 +288,4 @@
 + [defaultsDeep](defaultsDeep.md)
 + [fromEntries](fromEntries.md)
 + [findKey](findKey.md)
+

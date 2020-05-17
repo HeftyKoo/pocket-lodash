@@ -133,6 +133,7 @@
   * [baseMergeDeep](internal/baseMergeDeep.md)
   * [baseMerge](internal/baseMerge.md)
   * [createAssigner](internal/createAssigner.md)
+  * [baseFindKey](internal/baseFindKey.md)
 
 
 * [slice](slice.md)
