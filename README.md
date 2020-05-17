@@ -311,6 +311,7 @@
 + [findKey](findKey.md)
 + [findLastKey](findLastKey.md)
 + [functions](functions.md)
++ [has](has.md)
 
 ## License
 
