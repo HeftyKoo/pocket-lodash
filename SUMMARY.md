@@ -291,4 +291,5 @@
 + [findLastKey](findLastKey.md)
 + [functions](functions.md)
 + [has](has.md)
++ [hasIn](hasIn.md)
 
