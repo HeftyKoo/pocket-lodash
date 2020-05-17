@@ -292,4 +292,5 @@
 + [functions](functions.md)
 + [has](has.md)
 + [hasIn](hasIn.md)
++ [invert](invert.md)
 
