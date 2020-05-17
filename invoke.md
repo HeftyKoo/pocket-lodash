@@ -25,6 +25,7 @@ import toKey from './.internal/toKey.js'
 源码如下：
 
 ```javascript
+const hasOwnProperty = Object.prototype.hasOwnProperty
 function invoke(object, path, args) {
   path = castPath(path, object)
   object = parent(object, path)

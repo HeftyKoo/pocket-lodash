@@ -314,6 +314,7 @@
 + [has](has.md)
 + [hasIn](hasIn.md)
 + [invert](invert.md)
++ [invertBy](invertBy.md)
 
 ## License
 
