@@ -294,4 +294,5 @@
 + [hasIn](hasIn.md)
 + [invert](invert.md)
 + [invertBy](invertBy.md)
++ [mapKey](mapKey.md)
 
