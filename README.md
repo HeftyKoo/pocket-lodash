@@ -310,6 +310,7 @@
 + [fromEntries](fromEntries.md)
 + [findKey](findKey.md)
 + [findLastKey](findLastKey.md)
++ [functions](functions.md)
 
 ## License
 
