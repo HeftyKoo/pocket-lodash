@@ -316,6 +316,7 @@
 + [invert](invert.md)
 + [invertBy](invertBy.md)
 + [mapKey](mapKey.md)
++ [mapValue](mapValue.md)
 
 ## License
 
