@@ -288,4 +288,5 @@
 + [defaultsDeep](defaultsDeep.md)
 + [fromEntries](fromEntries.md)
 + [findKey](findKey.md)
++ [findLastKey](findLastKey.md)
 
