@@ -321,6 +321,7 @@
 + [mapValue](mapValue.md)
 + [merge](merge.md)
 + [pick](pick.md)
++ [pickBy](pickBy.md)
 
 ## License
 
