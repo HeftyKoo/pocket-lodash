@@ -135,6 +135,7 @@
   * [createAssigner](internal/createAssigner.md)
   * [baseFindKey](internal/baseFindKey.md)
   * [basePickBy](internal/basePickBy.md)
+  * [basePick](internal/basePick.md)
 
 
 * [slice](slice.md)
