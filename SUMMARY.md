@@ -296,4 +296,5 @@
 + [invertBy](invertBy.md)
 + [mapKey](mapKey.md)
 + [mapValue](mapValue.md)
++ [merge](merge.md)
 
