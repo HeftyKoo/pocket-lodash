@@ -320,6 +320,7 @@
 + [mapKey](mapKey.md)
 + [mapValue](mapValue.md)
 + [merge](merge.md)
++ [pick](pick.md)
 
 ## License
 
