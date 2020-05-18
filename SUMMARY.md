@@ -115,6 +115,7 @@
   * [baseMerge](internal/baseMerge.md)
   * [createAssigner](internal/createAssigner.md)
   * [baseFindKey](internal/baseFindKey.md)
+  * [basePickBy](internal/basePickBy.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
