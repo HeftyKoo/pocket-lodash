@@ -322,6 +322,7 @@
 + [merge](merge.md)
 + [pick](pick.md)
 + [pickBy](pickBy.md)
++ [result](result.md)
 
 ## License
 
