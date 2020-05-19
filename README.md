@@ -324,6 +324,7 @@
 + [pickBy](pickBy.md)
 + [result](result.md)
 + [set](set.md)
++ [setWith](setWith.md)
 
 ## License
 
