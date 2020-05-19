@@ -302,4 +302,5 @@
 + [pick](pick.md)
 + [pickBy](pickBy.md)
 + [result](result.md)
++ [set](set.md)
 
