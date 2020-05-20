@@ -329,6 +329,7 @@
 + [transform](transform.md)
 + [unset](unset.md)
 + [update](update.md)
++ [updateWith](updateWith.md)
 
 ## License
 
