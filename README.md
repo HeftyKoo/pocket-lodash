@@ -326,6 +326,7 @@
 + [set](set.md)
 + [setWith](setWith.md)
 + [transform](transform.md)
++ [unset](unset.md)
 
 ## License
 
