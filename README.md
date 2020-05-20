@@ -136,6 +136,7 @@
   * [baseFindKey](internal/baseFindKey.md)
   * [basePickBy](internal/basePickBy.md)
   * [basePick](internal/basePick.md)
+  * [baseUpdate](internal/baseUpdate.md)
 
 
 * [slice](slice.md)
