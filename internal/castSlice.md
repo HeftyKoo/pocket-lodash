@@ -10,7 +10,7 @@ gitbook也会同步仓库的更新，gitbook地址：[pocket-lodash](https://www
 import slice from '../slice.js'
 ```
 
-[lodash源码分析之slice](../baseUpdate.md)
+[lodash源码分析之slice](../slice.md)
 
 
 ## 源码分析
