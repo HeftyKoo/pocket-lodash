@@ -137,6 +137,7 @@
   * [basePickBy](internal/basePickBy.md)
   * [basePick](internal/basePick.md)
   * [baseUpdate](internal/baseUpdate.md)
+  * [castSlice](internal/castSlice.md)
 
 
 * [slice](slice.md)
