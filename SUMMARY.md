@@ -311,4 +311,5 @@
 + [unset](unset.md)
 + [update](update.md)
 + [updateWith](updateWith.md)
++ [upperFirst](upperFirst.md)
 
