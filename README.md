@@ -138,6 +138,7 @@
   * [basePick](internal/basePick.md)
   * [baseUpdate](internal/baseUpdate.md)
   * [castSlice](internal/castSlice.md)
+  * [createCaseFirst](internal/createCaseFirst.md)
 
 
 * [slice](slice.md)

@@ -23,7 +23,7 @@ import stringToArray from './stringToArray.js'
 
 `createCaseFirst` 用来创建 `lowerFirst` 、`upperFirst` 之类的方法，即对字符串的第一个字符进行处理。
 
-这个方法的思路是，将字符串的第一个字符取出，然后调用字符串对应的 `lowerCase` 、`upperCase` 之类的方法，来对第一个字符进行转换，然后再和余下的字符拼接在一起。
+这个方法的思路是，将字符串的第一个字符取出，然后调用字符串对应的 `toLowerCase` 、`toUpperCase` 之类的方法，来对第一个字符进行转换，然后再和余下的字符拼接在一起。
 
 有了这个思路，很容易写出这样的代码：
 
