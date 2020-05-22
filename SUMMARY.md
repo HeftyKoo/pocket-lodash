@@ -120,6 +120,7 @@
   * [baseUpdate](internal/baseUpdate.md)
   * [castSlice](internal/castSlice.md)
   * [createCaseFirst](internal/createCaseFirst.md)
+  * [unicodeWords](internal/unicodeWords.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
