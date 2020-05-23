@@ -335,6 +335,7 @@
 + [updateWith](updateWith.md)
 + [upperFirst](upperFirst.md)
 + [words](words.md)
++ [camelCase](camelCase.md)
 
 ## License
 
