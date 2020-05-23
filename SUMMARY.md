@@ -315,4 +315,5 @@
 + [upperFirst](upperFirst.md)
 + [words](words.md)
 + [camelCase](camelCase.md)
++ [capitalize](capitalize.md)
 
