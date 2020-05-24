@@ -140,6 +140,8 @@
   * [castSlice](internal/castSlice.md)
   * [createCaseFirst](internal/createCaseFirst.md)
   * [unicodeWords](internal/unicodeWords.md)
+  * [basePropertyOf](internal/basePropertyOf.md)
+  * [deburrLetter](internal/deburrLetter.md)
 
 
 * [slice](slice.md)
@@ -337,6 +339,7 @@
 + [words](words.md)
 + [camelCase](camelCase.md)
 + [capitalize](capitalize.md)
++ [deburr](deburr.md)
 
 ## License
 
