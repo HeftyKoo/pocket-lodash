@@ -340,6 +340,7 @@
 + [camelCase](camelCase.md)
 + [capitalize](capitalize.md)
 + [deburr](deburr.md)
++ [endsWith](endsWith.md)
 
 ## License
 
