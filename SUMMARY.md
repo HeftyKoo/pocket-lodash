@@ -323,4 +323,5 @@
 + [escape](escape.md)
 + [escapeRegExp](escapeRegExp.md)
 + [kebabCase](kebabCase.md)
++ [lowerCase](lowerCase.md)
 
