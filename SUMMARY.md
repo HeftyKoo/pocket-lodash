@@ -321,4 +321,5 @@
 + [deburr](deburr.md)
 + [endsWith](endsWith.md)
 + [escape](escape.md)
++ [escapeRegExp](escapeRegExp.md)
 
