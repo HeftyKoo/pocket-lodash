@@ -322,4 +322,5 @@
 + [endsWith](endsWith.md)
 + [escape](escape.md)
 + [escapeRegExp](escapeRegExp.md)
++ [kebabCase](kebabCase.md)
 
