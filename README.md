@@ -345,6 +345,7 @@
 + [escapeRegExp](escapeRegExp.md)
 + [kebabCase](kebabCase.md)
 + [lowerCase](lowerCase.md)
++ [lowerFirst](lowerFirst.md)
 
 ## License
 
