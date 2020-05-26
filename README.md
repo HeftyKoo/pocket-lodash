@@ -346,6 +346,7 @@
 + [kebabCase](kebabCase.md)
 + [lowerCase](lowerCase.md)
 + [lowerFirst](lowerFirst.md)
++ [repeat](repeat.md)
 
 ## License
 
