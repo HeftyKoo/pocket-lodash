@@ -142,6 +142,7 @@
   * [unicodeWords](internal/unicodeWords.md)
   * [basePropertyOf](internal/basePropertyOf.md)
   * [deburrLetter](internal/deburrLetter.md)
+  * [createPadding](internal/createPadding.md)
 
 
 * [slice](slice.md)
