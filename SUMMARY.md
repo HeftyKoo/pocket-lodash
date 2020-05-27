@@ -329,4 +329,5 @@
 + [repeat](repeat.md)
 + [pad](pad.md)
 + [padEnd](padEnd.md)
++ [padStart](padStart.md)
 
