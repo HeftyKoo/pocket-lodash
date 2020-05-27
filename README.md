@@ -348,6 +348,7 @@
 + [lowerCase](lowerCase.md)
 + [lowerFirst](lowerFirst.md)
 + [repeat](repeat.md)
++ [pad](pad.md)
 
 ## License
 
