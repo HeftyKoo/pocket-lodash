@@ -351,6 +351,7 @@
 + [pad](pad.md)
 + [padEnd](padEnd.md)
 + [padStart](padStart.md)
++ [parseInt](parseInt.md)
 
 ## License
 
