@@ -331,4 +331,5 @@
 + [padEnd](padEnd.md)
 + [padStart](padStart.md)
 + [parseInt](parseInt.md)
++ [replace](replace.md)
 
