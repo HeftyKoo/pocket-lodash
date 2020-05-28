@@ -332,4 +332,5 @@
 + [padStart](padStart.md)
 + [parseInt](parseInt.md)
 + [replace](replace.md)
++ [snakeCase](snakeCase.md)
 
