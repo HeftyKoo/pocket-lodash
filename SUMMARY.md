@@ -334,4 +334,5 @@
 + [replace](replace.md)
 + [snakeCase](snakeCase.md)
 + [split](split.md)
++ [startCase](startCase.md)
 
