@@ -333,4 +333,5 @@
 + [parseInt](parseInt.md)
 + [replace](replace.md)
 + [snakeCase](snakeCase.md)
++ [split](split.md)
 
