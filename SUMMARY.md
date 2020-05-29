@@ -335,4 +335,5 @@
 + [snakeCase](snakeCase.md)
 + [split](split.md)
 + [startCase](startCase.md)
++ [startsWith](startsWith.md)
 
