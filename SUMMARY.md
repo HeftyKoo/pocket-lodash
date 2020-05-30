@@ -124,6 +124,8 @@
   * [basePropertyOf](internal/basePropertyOf.md)
   * [deburrLetter](internal/deburrLetter.md)
   * [createPadding](internal/createPadding.md)
+  * [charsEndIndex](internal/charsEndIndex.md)
+  * [charsStartIndex](internal/charsStartIndex.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
@@ -336,4 +338,5 @@
 + [split](split.md)
 + [startCase](startCase.md)
 + [startsWith](startsWith.md)
++ [trim](trim.md)
 
