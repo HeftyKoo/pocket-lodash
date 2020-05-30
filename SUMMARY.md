@@ -340,4 +340,5 @@
 + [startsWith](startsWith.md)
 + [trim](trim.md)
 + [trimEnd](trimEnd.md)
++ [trimStrat](trimStrat.md)
 
