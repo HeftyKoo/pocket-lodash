@@ -1,4 +1,4 @@
-# lodash源码分析之trimStrat
+# lodash源码分析之trimStart
 
 本文为读 lodash 源码的第三百四十篇，后续文章会更新到这个仓库中，欢迎 star：[pocket-lodash](https://github.com/yeyuqiudeng/pocket-lodash)
 
