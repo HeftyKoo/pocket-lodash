@@ -360,6 +360,7 @@
 + [startCase](startCase.md)
 + [startsWith](startsWith.md)
 + [trim](trim.md)
++ [trimEnd](trimEnd.md)
 
 ## License
 
