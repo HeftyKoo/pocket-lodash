@@ -362,6 +362,7 @@
 + [trim](trim.md)
 + [trimEnd](trimEnd.md)
 + [trimStrat](trimStrat.md)
++ [truncate](truncate.md)
 
 ## License
 
