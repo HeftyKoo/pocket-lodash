@@ -344,4 +344,5 @@
 + [truncate](truncate.md)
 + [unescape](unescape.md)
 + [upperCase](upperCase.md)
++ [attempt](attempt.md)
 
