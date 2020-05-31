@@ -342,4 +342,5 @@
 + [trimEnd](trimEnd.md)
 + [trimStrat](trimStrat.md)
 + [truncate](truncate.md)
++ [unescape](unescape.md)
 
