@@ -343,4 +343,5 @@
 + [trimStrat](trimStrat.md)
 + [truncate](truncate.md)
 + [unescape](unescape.md)
++ [upperCase](upperCase.md)
 
