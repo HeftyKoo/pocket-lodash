@@ -348,4 +348,5 @@
 + [attempt](attempt.md)
 + [cond](cond.md)
 + [conforms](conforms.md)
++ [defaultTo](defaultTo.md)
 
