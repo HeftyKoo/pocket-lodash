@@ -345,4 +345,5 @@
 + [unescape](unescape.md)
 + [upperCase](upperCase.md)
 + [attempt](attempt.md)
++ [cond](cond.md)
 
