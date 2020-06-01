@@ -145,6 +145,7 @@
   * [createPadding](internal/createPadding.md)
   * [charsEndIndex](internal/charsEndIndex,md)
   * [charsStartIndex](internal/charsStartIndex.md)
+  * [baseConforms](internal/baseConforms.md)
 
 
 * [slice](slice.md)
@@ -367,6 +368,7 @@
 + [upperCase](upperCase.md)
 + [attempt](attempt.md)
 + [cond](cond.md)
++ [conforms](conforms.md)
 
 ## License
 
