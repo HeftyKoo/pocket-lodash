@@ -127,6 +127,8 @@
   * [charsEndIndex](internal/charsEndIndex.md)
   * [charsStartIndex](internal/charsStartIndex.md)
   * [baseConforms](internal/baseConforms.md)
+  * [matchesStrictComparable](internal/matchesStrictComparable.md)
+  * [baseMatches](internal/baseMatches.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
@@ -351,4 +353,5 @@
 + [defaultTo](defaultTo.md)
 + [flow](flow.md)
 + [flowRight](flowRight.md)
++ [matches](matches.md)
 
