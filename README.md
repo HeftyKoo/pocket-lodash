@@ -376,6 +376,7 @@
 + [flow](flow.md)
 + [flowRight](flowRight.md)
 + [matches](matches.md)
++ [matchesProperty](matchesProperty.md)
 
 ## License
 
