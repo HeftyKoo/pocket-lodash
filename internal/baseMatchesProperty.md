@@ -38,6 +38,9 @@ import toKey from './toKey.js'
 源码如下：
 
 ```javascript
+const COMPARE_PARTIAL_FLAG = 1
+const COMPARE_UNORDERED_FLAG = 2
+
 function baseMatchesProperty(path, srcValue) {
   if (isKey(path) && isStrictComparable(srcValue)) {
     return matchesStrictComparable(toKey(path), srcValue)
