@@ -13,7 +13,7 @@ import baseMatchesProperty from './.internal/baseMatchesProperty.js'
 
 [《lodash源码分析之baseClone》](./internal/baseClone.md)
 
-[《lodash源码分析之baseMatchesProperty》](./internal/baseMatchesPropertymd)
+[《lodash源码分析之baseMatchesProperty》](./internal/baseMatchesProperty.md)
 
 
 ## 源码分析
