@@ -378,6 +378,7 @@
 + [matches](matches.md)
 + [matchesProperty](matchesProperty.md)
 + [method](method.md)
++ [methodOf](methodOf.md)
 
 ## License
 
