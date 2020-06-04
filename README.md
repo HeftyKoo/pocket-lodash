@@ -380,6 +380,7 @@
 + [method](method.md)
 + [methodOf](methodOf.md)
 + [nthArg](nthArg.md)
++ [over](over.md)
 
 ## License
 
