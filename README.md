@@ -381,6 +381,7 @@
 + [methodOf](methodOf.md)
 + [nthArg](nthArg.md)
 + [over](over.md)
++ [overEvery](overEvery.md)
 
 ## License
 
