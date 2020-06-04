@@ -382,6 +382,7 @@
 + [nthArg](nthArg.md)
 + [over](over.md)
 + [overEvery](overEvery.md)
++ [overSome](overSome.md)
 
 ## License
 
