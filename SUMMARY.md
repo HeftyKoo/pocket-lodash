@@ -364,4 +364,5 @@
 + [overEvery](overEvery.md)
 + [overSome](overSome.md)
 + [property](property.md)
++ [propertyOf](propertyOf.md)
 
