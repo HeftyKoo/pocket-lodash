@@ -130,6 +130,7 @@
   * [matchesStrictComparable](internal/matchesStrictComparable.md)
   * [baseMatches](internal/baseMatches.md)
   * [baseMatchesProperty](internal/baseMatchesProperty.md)
+  * [basePropertyDeep](internal/basePropertyDeep.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
