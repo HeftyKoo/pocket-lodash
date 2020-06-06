@@ -131,6 +131,7 @@
   * [baseMatches](internal/baseMatches.md)
   * [baseMatchesProperty](internal/baseMatchesProperty.md)
   * [basePropertyDeep](internal/basePropertyDeep.md)
+  * [baseRange](internal/baseRange.md)
 + [slice](slice.md)
 + [chunk](chunk.md)
 + [compact](compact.md)
