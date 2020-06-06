@@ -389,6 +389,7 @@
 + [property](property.md)
 + [propertyOf](propertyOf.md)
 + [range](range.md)
++ [rangeRight](rangeRight.md)
 
 ## License
 
