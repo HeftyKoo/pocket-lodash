@@ -22,7 +22,7 @@ import createRange from './.internal/createRange.js'
 const range = createRange()
 ```
 
-其实就是调用 `createRange` 来实现，`fromRight` 传入的为 `false`
+其实就是调用 `createRange` 来实现，`fromRight` 没有传入。
 
 ## License 
 
