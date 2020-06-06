@@ -7,7 +7,7 @@ gitbook也会同步仓库的更新，gitbook地址：[pocket-lodash](https://www
 
 ## 源码分析
 
-`baseRange` 用来根据 `start` 、 `end` 和 `step` 来创建一个数组，这个数组的所有数字都在 `start` 和 `end` 之间，并且相邻两个之间的差值是 `step` 。 一般情况下得到的数组是按从小到大排序，如果 `fromRight` 为 `true` ，则从大到小排序。
+`baseRange` 用来根据 `start` 、 `end` 和 `step` 来创建一个数组，这个数组的所有数字都在 `start` 和 `end` 之间，并且相邻两个之间的差值是 `step` 。 一般情况下，如果 `start` 比 `end` 小，则从小大到排序，否则从大到小排序，如果 `fromRight` 为 `true` ，则排序方式和前面相反。
 
 源码如下：
 
@@ -27,11 +27,11 @@ function baseRange(start, end, step, fromRight) {
 
 如果 `step` 没有传，则默认 `step` 为 `1` 。
 
-使用 `(end - start) / step` 可以得到数组的个数，但是这个结果可能为小数，因此使用 `Math.ceil` 来取整，又传入的 `end` 可能比 `start` 小，因此计算出来的个数可能为负数，因此再用 `Math.max` 来取和 `0` 相比的较大值，避免出现个数为负数的情况。
+使用 `(end - start) / step` 可以得到数组的个数，但是这个结果可能为小数，因此使用 `Math.ceil` 来取整，又因为计算出来的个数可能为负数，因此再用 `Math.max` 来取和 `0` 相比的较大值，避免出现个数为负数的情况。
 
-使用 `while` 遍历，这时 `length` 是递减的， `index` 是递增的，如果 `fromRight` 为 `true` ，则使用 `length` 作为索引，否则使用 `index` ，因此 `fromRight` 为 `true` 时， 则索引越大，值越小。
+使用 `while` 遍历，这时 `length` 是递减的， `index` 是递增的，如果 `fromRight` 为 `true` ，则使用 `length` 作为索引，否则使用 `index` ，因此 `fromRight` 为 `true` 时， 和正常的排序方式刚好相反。
 
-每次遍历都将 `start` 都递加上 `step` 。
+每次遍历都将 `start` 都递加上 `step` ，如果 `step` 为正数，则递增，如果为负数，则递减。
 
 ## License 
 
