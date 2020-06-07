@@ -392,6 +392,7 @@
 + [rangeRight](rangeRight.md)
 + [times](times.md)
 + [toPath](toPath.md)
++ [uniqueId](uniqueId.md)
 
 ## License
 
