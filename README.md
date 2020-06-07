@@ -390,6 +390,7 @@
 + [propertyOf](propertyOf.md)
 + [range](range.md)
 + [rangeRight](rangeRight.md)
++ [times](times.md)
 
 ## License
 
