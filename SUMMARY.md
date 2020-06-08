@@ -374,4 +374,5 @@
 + [uniqueId](uniqueId.md)
 + [someValues](someValues.md)
 + [hasPath](hasPath.md)
++ [hasPathIn](hasPathIn.md)
 
