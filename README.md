@@ -393,6 +393,7 @@
 + [times](times.md)
 + [toPath](toPath.md)
 + [uniqueId](uniqueId.md)
++ [someValues](someValues.md)
 
 ## License
 
