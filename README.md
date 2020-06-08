@@ -394,6 +394,7 @@
 + [toPath](toPath.md)
 + [uniqueId](uniqueId.md)
 + [someValues](someValues.md)
++ [hasPath](hasPath.md)
 
 ## License
 
