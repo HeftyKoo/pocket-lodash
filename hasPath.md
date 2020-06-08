@@ -39,6 +39,7 @@ hasPath(object, ['a', 'b']) // => true
 源码如下：
 
 ```javascript
+const hasOwnProperty = Object.prototype.hasOwnProperty
 function hasPath(object, path) {
   path = castPath(path, object)
 
