@@ -22,7 +22,7 @@ baseFindIndex([3,1,2], function(val, index, array) {
 }, 1) // 从前向后查找，从索引1开始查找，返回2
 baseFindIndex([3,1,2], function(val, index, array) {
   return val > 1
-}, 1, true) // 从后向前查找，从索引1开始查找，返回3
+}, 1, true) // 从后向前查找，从索引1开始查找，返回0
 ```
 
 ## 源码分析
