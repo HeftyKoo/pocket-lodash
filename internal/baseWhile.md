@@ -24,7 +24,7 @@ function baseWhile(array, predicate, isDrop, fromRight) {
   let index = fromRight ? length : -1
 
   while ((fromRight ? index-- : ++index < length) &&
-    predicate(array[index], index, array)) {}
+    predicate(array[index], index, array){})
 
   return isDrop
     ? slice(array, (fromRight ? 0 : index), (fromRight ? index + 1 : length))
@@ -40,7 +40,7 @@ function baseWhile(array, predicate, isDrop, fromRight) {
 let index = fromRight ? length : -1
 
 while ((fromRight ? index-- : ++index < length) &&
-       predicate(array[index], index, array)) {}
+       predicate(array[index], index, array){})
 ```
 
 如果 `fromRight` 为 `true`，则 `index` 为数组的长度，否则为 `-1`。
