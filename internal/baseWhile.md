@@ -55,7 +55,11 @@ while ((fromRight ? index-- : ++index < length) &&
 
 `slice(array, (fromRight ? 0 : index), (fromRight ? index + 1 : length))`  
 
-这样看就一目了然了，如果是从后向前遍历，相当于调用 `slice(0, index+1)` ，保留 `0` 到 `index` 的所有项。从前向后遍历，则相当于调用 `slice(index, length)` ，保留 `index` 到最后一项。
+这样看就一目了然了。
+
+如果是从后向前遍历，相当于调用 `slice(0, index+1)` ，保留 `0` 到 `index` 的所有项。
+
+从前向后遍历，则相当于调用 `slice(index, length)` ，保留 `index` 到最后一项。
 
 保留的情况则正好相反：
 
