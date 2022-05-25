@@ -49,7 +49,7 @@ while ((fromRight ? index-- : ++index < length) &&
 
 接下来再看这个条件: `predicate(array[index], index, array)` ，每次迭代的时候，都会将当前迭代到的数组项、索引、和数组传给 `predicate` 函数，当 `predicate` 返回假值时，循环中止，此时索引 `index` 为中止时的索引。
 
-`isDrop` 的是指是否将遍历过的项给移除掉。
+`isDrop` 指是否移除遍历的最后一项，即 `array[index]`。
 
 先来看移除掉的情况：
 
