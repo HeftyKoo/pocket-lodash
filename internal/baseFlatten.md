@@ -73,10 +73,10 @@ function baseFlatten(array, depth, predicate, isStrict, result) {
 function test (...values) {
     return baseFlatten(values, 1, undefined, true)
 }
-test([1,2,3],[4,5,6] function(){})
+test([1,2,3], [4,5,6], function(){})
 ```
 
-`test` 在调用的时候，`values` 的值为 `[[1,2,3],[4,5,6],function(){}]`，在 `test` 调用后，返回的值会是 `[1,2,3,4,5,6]`，后面的因为通不过 `isFlattenable` 的检测，因此被舍弃了。
+`test` 在调用的时候，`values` 的值为 `[[1,2,3], [4,5,6], function(){}]`，在 `test` 调用后，返回的值会是 `[1,2,3,4,5,6]`，后面的因为通不过 `isFlattenable` 的检测，因此被舍弃了。
 
 ## License
 
