@@ -40,7 +40,7 @@ function difference(array, ...values) {
 
 首先，如果 `array` 不是数组，那根本就没有比较的必要了，因此直接返回一个空数组。
 
-因为使用了解构，因此 `values` 其实是一个二维数组，因此使用 `baseFlatten` 将二维数组展平成一维数组。
+因为使用了剩余参数，因此 `values` 其实是一个二维数组，因此使用 `baseFlatten` 将二维数组展平成一维数组。
 
 `difference` 的核心功能在 `baseDifference` 中，因为 `baseDifference` 比较的是两个数组，在将 `values` 展平后，就可以正常调用 `baseDifference` 了。
 
